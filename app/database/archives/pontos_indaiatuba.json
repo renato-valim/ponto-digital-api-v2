@@ -1,0 +1,6097 @@
+[{
+    "id": 1135089,
+    "nome": "Terminal Central",
+    "lat": -23.08827654,
+    "long": -47.2090773
+  },
+  {
+    "id": 1135090,
+    "nome": "Avenida Manoel Ruz Peres, 600",
+    "lat": -23.10343766,
+    "long": -47.25979328
+  },
+  {
+    "id": 1135091,
+    "nome": "Rua Basílio Martins, 618-654",
+    "lat": -23.10689154,
+    "long": -47.21420109
+  },
+  {
+    "id": 1135092,
+    "nome": "Rua Ivonette Delboni, 765-819",
+    "lat": -23.0635418,
+    "long": -47.13427354
+  },
+  {
+    "id": 1135093,
+    "nome": "Terminal João Piolli",
+    "lat": -23.10600585,
+    "long": -47.23747839
+  },
+  {
+    "id": 1135094,
+    "nome": "Rua Padre Bento Pacheco, 1001-1099 - Praça Dom Pedro",
+    "lat": -23.0871036,
+    "long": -47.21493106
+  },
+  {
+    "id": 1135096,
+    "nome": "Rua Aristóteles Pereira dos Santos, 651",
+    "lat": -23.11032897,
+    "long": -47.23823983
+  },
+  {
+    "id": 1135097,
+    "nome": "Rua Silvio Candello, 2383",
+    "lat": -23.11186627,
+    "long": -47.23767775
+  },
+  {
+    "id": 1135098,
+    "nome": "Rua Silvio Candello, 2109",
+    "lat": -23.1142,
+    "long": -47.2384
+  },
+  {
+    "id": 1135099,
+    "nome": "Rua Silvio Candello, 1877-1897",
+    "lat": -23.11643121,
+    "long": -47.23907003
+  },
+  {
+    "id": 1135100,
+    "nome": "Rua Silvio Candello, 1443",
+    "lat": -23.1199,
+    "long": -47.2401
+  },
+  {
+    "id": 1135101,
+    "nome": "Rua Silvio Candello, 1313",
+    "lat": -23.12094377,
+    "long": -47.24042305
+  },
+  {
+    "id": 1135102,
+    "nome": "Rua Silvio Candello, 1053",
+    "lat": -23.12329615,
+    "long": -47.2411367
+  },
+  {
+    "id": 1135103,
+    "nome": "Rua João Narezzi, 739",
+    "lat": -23.12564618,
+    "long": -47.24043539
+  },
+  {
+    "id": 1135104,
+    "nome": "Rua João Narezzi, 459",
+    "lat": -23.12631557,
+    "long": -47.23789896
+  },
+  {
+    "id": 1135105,
+    "nome": "Rua João Narezzi, 45",
+    "lat": -23.1271,
+    "long": -47.235
+  },
+  {
+    "id": 1135106,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 6173-6239",
+    "lat": -23.12533309,
+    "long": -47.23257283
+  },
+  {
+    "id": 1135107,
+    "nome": "Rua José Carlos Wolf, 96-148",
+    "lat": -23.1240954,
+    "long": -47.23240415
+  },
+  {
+    "id": 1135108,
+    "nome": "Rua Vicente de Genaro, 313-369",
+    "lat": -23.12438728,
+    "long": -47.23087017
+  },
+  {
+    "id": 1135109,
+    "nome": "Rua Vicente de Genaro, 130",
+    "lat": -23.12486332,
+    "long": -47.22871004
+  },
+  {
+    "id": 1135110,
+    "nome": "Rua Francisco de Paula Cabral Vasconcelos Padre, 400-460",
+    "lat": -23.1229,
+    "long": -47.2284
+  },
+  {
+    "id": 1135111,
+    "nome": "Rua Reverendo Ataíde Costa, 1084-1146",
+    "lat": -23.12208397,
+    "long": -47.22638571
+  },
+  {
+    "id": 1135112,
+    "nome": "Rua Reverendo Ataíde Costa, 1344-1398",
+    "lat": -23.12,
+    "long": -47.2258
+  },
+  {
+    "id": 1135113,
+    "nome": "Avenida Francisco de Paula Leite, 3201",
+    "lat": -23.1181,
+    "long": -47.2234
+  },
+  {
+    "id": 1135114,
+    "nome": "Avenida Francisco de Paula Leite, 3067",
+    "lat": -23.1167,
+    "long": -47.2227
+  },
+  {
+    "id": 1135115,
+    "nome": "Avenida Francisco de Paula Leite, 2937-2987",
+    "lat": -23.11436653,
+    "long": -47.22134946
+  },
+  {
+    "id": 1135116,
+    "nome": "Avenida Francisco de Paula Leite, 2223",
+    "lat": -23.11010552,
+    "long": -47.21950425
+  },
+  {
+    "id": 1135117,
+    "nome": "Avenida Francisco de Paula Leite, 1993-2021",
+    "lat": -23.10800834,
+    "long": -47.218735
+  },
+  {
+    "id": 1135118,
+    "nome": "Avenida Francisco de Paula Leite, 1541-1635",
+    "lat": -23.10474948,
+    "long": -47.21750799
+  },
+  {
+    "id": 1135119,
+    "nome": "Avenida Francisco de Paula Leite, 1251",
+    "lat": -23.10172407,
+    "long": -47.21630663
+  },
+  {
+    "id": 1135120,
+    "nome": "Avenida Francisco de Paula Leite, 845-905",
+    "lat": -23.09827264,
+    "long": -47.21588106
+  },
+  {
+    "id": 1135121,
+    "nome": "Avenida Francisco de Paula Leite, 581",
+    "lat": -23.09589308,
+    "long": -47.21554756
+  },
+  {
+    "id": 1135122,
+    "nome": "Rua Pedro de Toledo, 250",
+    "lat": -23.08950819,
+    "long": -47.21566422
+  },
+  {
+    "id": 1135123,
+    "nome": "Rua Humaitá, 682",
+    "lat": -23.08379501,
+    "long": -47.21430646
+  },
+  {
+    "id": 1135124,
+    "nome": "Rua Humaitá, 1402-1504",
+    "lat": -23.08690105,
+    "long": -47.20785462
+  },
+  {
+    "id": 1135125,
+    "nome": "Rua Tuiuti, 670",
+    "lat": -23.08513103,
+    "long": -47.20907336
+  },
+  {
+    "id": 1135126,
+    "nome": "Rua Almirante Tamandaré, 273",
+    "lat": -23.07848319,
+    "long": -47.20342398
+  },
+  {
+    "id": 1135127,
+    "nome": "Rua Alagoas, 257-319",
+    "lat": -23.0762,
+    "long": -47.2019
+  },
+  {
+    "id": 1135128,
+    "nome": "Avenida Conceição, 2276",
+    "lat": -23.07456466,
+    "long": -47.20290363
+  },
+  {
+    "id": 1135129,
+    "nome": "Avenida Bernadino Bonavita, 624",
+    "lat": -23.0716,
+    "long": -47.2014
+  },
+  {
+    "id": 1135130,
+    "nome": "Avenida Bernadino Bonavita, 1309",
+    "lat": -23.0683,
+    "long": -47.1979
+  },
+  {
+    "id": 1135131,
+    "nome": "Rua Pitangueiras, 402-460",
+    "lat": -23.066,
+    "long": -47.1909
+  },
+  {
+    "id": 1135132,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 2613",
+    "lat": -23.06149551,
+    "long": -47.18426228
+  },
+  {
+    "id": 1135133,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 3490",
+    "lat": -23.05624627,
+    "long": -47.17634171
+  },
+  {
+    "id": 1135134,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 3733",
+    "lat": -23.05444465,
+    "long": -47.17443734
+  },
+  {
+    "id": 1135135,
+    "nome": "Acesso Alameda das Nações",
+    "lat": -23.04689132,
+    "long": -47.17423487
+  },
+  {
+    "id": 1135136,
+    "nome": "Alameda das Nações",
+    "lat": -23.0475,
+    "long": -47.1706
+  },
+  {
+    "id": 1135137,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 4842-5254",
+    "lat": -23.04793394,
+    "long": -47.16716856
+  },
+  {
+    "id": 1135138,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 4812",
+    "lat": -23.04329008,
+    "long": -47.16373604
+  },
+  {
+    "id": 1135139,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 6059",
+    "lat": -23.03893901,
+    "long": -47.15994302
+  },
+  {
+    "id": 1135140,
+    "nome": "Alameda Antônio Ambiel, 100",
+    "lat": -23.03724413,
+    "long": -47.15776473
+  },
+  {
+    "id": 1135141,
+    "nome": "Alameda Antônio Ambiel, 200",
+    "lat": -23.03889506,
+    "long": -47.15623563
+  },
+  {
+    "id": 1135142,
+    "nome": "Alameda Antônio Ambiel, 500",
+    "lat": -23.0403,
+    "long": -47.1529
+  },
+  {
+    "id": 1135143,
+    "nome": "Alameda Antônio Ambiel, 600",
+    "lat": -23.0412,
+    "long": -47.1517
+  },
+  {
+    "id": 1135144,
+    "nome": "Alameda Antônio Ambiel, 800",
+    "lat": -23.04322962,
+    "long": -47.15125708
+  },
+  {
+    "id": 1135145,
+    "nome": "Alameda Antônio Ambiel, 1001",
+    "lat": -23.0475,
+    "long": -47.1503
+  },
+  {
+    "id": 1135146,
+    "nome": "Alameda Antônio Ambiel, 1585",
+    "lat": -23.0493,
+    "long": -47.1504249
+  },
+  {
+    "id": 1135147,
+    "nome": "Alameda Antônio Ambiel, 1710",
+    "lat": -23.05112023,
+    "long": -47.15092242
+  },
+  {
+    "id": 1135148,
+    "nome": "Alameda Antônio Ambiel, 585",
+    "lat": -23.05373221,
+    "long": -47.14894638
+  },
+  {
+    "id": 1135149,
+    "nome": "Complexo Viário Benedicto Amstalden, 2",
+    "lat": -23.0553406,
+    "long": -47.14641348
+  },
+  {
+    "id": 1135150,
+    "nome": "Alameda Pedro Wolf, 200",
+    "lat": -23.05640009,
+    "long": -47.14659566
+  },
+  {
+    "id": 1135151,
+    "nome": "Alameda Pedro Wolf, 405",
+    "lat": -23.05796653,
+    "long": -47.14590523
+  },
+  {
+    "id": 1135152,
+    "nome": "Alameda Pedro Wolf, 300-396",
+    "lat": -23.05972173,
+    "long": -47.14506658
+  },
+  {
+    "id": 1135153,
+    "nome": "Alameda Pedro Wolf, 614-832",
+    "lat": -23.06189674,
+    "long": -47.14222575
+  },
+  {
+    "id": 1135154,
+    "nome": "Rua Ivonette Delboni, 49-173",
+    "lat": -23.06253836,
+    "long": -47.14097471
+  },
+  {
+    "id": 1135155,
+    "nome": "Rua Ivonette Delboni, 282-334",
+    "lat": -23.06282793,
+    "long": -47.13940149
+  },
+  {
+    "id": 1135156,
+    "nome": "Rua Ivonette Delboni, 438",
+    "lat": -23.0630286,
+    "long": -47.13780982
+  },
+  {
+    "id": 1135157,
+    "nome": "Rua Ivonette Delboni, 626-712",
+    "lat": -23.06342733,
+    "long": -47.13549587
+  },
+  {
+    "id": 1135160,
+    "nome": "Rua Ivonette Delboni, 667",
+    "lat": -23.06334853,
+    "long": -47.13551605
+  },
+  {
+    "id": 1135161,
+    "nome": "Rua Ivonette Delboni, 429",
+    "lat": -23.0629518,
+    "long": -47.13789003
+  },
+  {
+    "id": 1135162,
+    "nome": "Rua Ivonette Delboni, 281-343",
+    "lat": -23.06275016,
+    "long": -47.13942363
+  },
+  {
+    "id": 1135163,
+    "nome": "Rua Ivonette Delboni, 86",
+    "lat": -23.06261123,
+    "long": -47.14093413
+  },
+  {
+    "id": 1135164,
+    "nome": "Alameda Pedro Wolf, 613-831",
+    "lat": -23.06180859,
+    "long": -47.14221685
+  },
+  {
+    "id": 1135165,
+    "nome": "Alameda Pedro Wolf, 397-611",
+    "lat": -23.061304,
+    "long": -47.14418961
+  },
+  {
+    "id": 1135166,
+    "nome": "Alameda Pedro Wolf, 1-395",
+    "lat": -23.05968635,
+    "long": -47.1449881
+  },
+  {
+    "id": 1135167,
+    "nome": "Alameda Pedro Wolf, 395",
+    "lat": -23.05759115,
+    "long": -47.14598177
+  },
+  {
+    "id": 1135168,
+    "nome": "Complexo Viário Benedicto Amstalden, 2",
+    "lat": -23.05531616,
+    "long": -47.14632731
+  },
+  {
+    "id": 1135169,
+    "nome": "Alameda Antônio Ambiel, 585",
+    "lat": -23.0538138,
+    "long": -47.14901497
+  },
+  {
+    "id": 1135170,
+    "nome": "Alameda Antônio Ambiel, 1700",
+    "lat": -23.0509,
+    "long": -47.151
+  },
+  {
+    "id": 1135172,
+    "nome": "Alameda Antônio Ambiel, 1000",
+    "lat": -23.0473,
+    "long": -47.1502
+  },
+  {
+    "id": 1135173,
+    "nome": "Alameda Antônio Ambiel, 900",
+    "lat": -23.04408025,
+    "long": -47.15093026
+  },
+  {
+    "id": 1135174,
+    "nome": "Alameda Antônio Ambiel, 700",
+    "lat": -23.0424,
+    "long": -47.1514
+  },
+  {
+    "id": 1135175,
+    "nome": "Alameda Antônio Ambiel, 601",
+    "lat": -23.0412995,
+    "long": -47.15177536
+  },
+  {
+    "id": 1135176,
+    "nome": "Alameda Antônio Ambiel, 501",
+    "lat": -23.04028999,
+    "long": -47.15311915
+  },
+  {
+    "id": 1135177,
+    "nome": "Alameda Antônio Ambiel, 300",
+    "lat": -23.0395,
+    "long": -47.1553
+  },
+  {
+    "id": 1135179,
+    "nome": "Alameda Antônio Ambiel, 101",
+    "lat": -23.03743949,
+    "long": -47.15775364
+  },
+  {
+    "id": 1135181,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 6058",
+    "lat": -23.04028162,
+    "long": -47.16134312
+  },
+  {
+    "id": 1135182,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 5759",
+    "lat": -23.04141869,
+    "long": -47.16234954
+  },
+  {
+    "id": 1135183,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 4812",
+    "lat": -23.0432916,
+    "long": -47.16389001
+  },
+  {
+    "id": 1135184,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 5261",
+    "lat": -23.04505072,
+    "long": -47.16497002
+  },
+  {
+    "id": 1135185,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 5559",
+    "lat": -23.04640757,
+    "long": -47.16595421
+  },
+  {
+    "id": 1135186,
+    "nome": "Acesso Alameda das Nações",
+    "lat": -23.04813679,
+    "long": -47.16761746
+  },
+  {
+    "id": 1135187,
+    "nome": "Alameda das Nações",
+    "lat": -23.04742468,
+    "long": -47.17131073
+  },
+  {
+    "id": 1135189,
+    "nome": "Estrada do Fogueteiro, 455-499",
+    "lat": -23.04918773,
+    "long": -47.17413962
+  },
+  {
+    "id": 1135190,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 4837-4839",
+    "lat": -23.04834334,
+    "long": -47.16767912
+  },
+  {
+    "id": 1135191,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 4355",
+    "lat": -23.0504,
+    "long": -47.1699
+  },
+  {
+    "id": 1135192,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 4079",
+    "lat": -23.05227532,
+    "long": -47.17201341
+  },
+  {
+    "id": 1135193,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 3681-3731",
+    "lat": -23.05464949,
+    "long": -47.17449099
+  },
+  {
+    "id": 1135194,
+    "nome": "Rua Ademar Von Ah, 794-1026",
+    "lat": -23.05631784,
+    "long": -47.17665017
+  },
+  {
+    "id": 1135195,
+    "nome": "Rua San Marino, 2",
+    "lat": -23.0615498,
+    "long": -47.18410134
+  },
+  {
+    "id": 1135196,
+    "nome": "Avenida Bernadino Bonavita",
+    "lat": -23.06602737,
+    "long": -47.19164385
+  },
+  {
+    "id": 1135197,
+    "nome": "Avenida Bernadino Bonavita, 905-1033",
+    "lat": -23.0682,
+    "long": -47.1982
+  },
+  {
+    "id": 1135198,
+    "nome": "Avenida Bernadino Bonavita, 287-361",
+    "lat": -23.0717,
+    "long": -47.2016
+  },
+  {
+    "id": 1135199,
+    "nome": "Avenida Bernadino Bonavita, 69-93",
+    "lat": -23.07346163,
+    "long": -47.20293313
+  },
+  {
+    "id": 1135200,
+    "nome": "Rua Ademar de Barros, 1961",
+    "lat": -23.0754,
+    "long": -47.2047
+  },
+  {
+    "id": 1135201,
+    "nome": "Rua Amazonas, 26",
+    "lat": -23.07706681,
+    "long": -47.20511377
+  },
+  {
+    "id": 1135202,
+    "nome": "Rua Almirante Tamandaré, 266",
+    "lat": -23.0785,
+    "long": -47.2036
+  },
+  {
+    "id": 1135203,
+    "nome": "Avenida Doutor Jácomo Nazário, 1030",
+    "lat": -23.07962319,
+    "long": -47.20271319
+  },
+  {
+    "id": 1135204,
+    "nome": "Avenida Doutor Jácomo Nazário, 665",
+    "lat": -23.0826,
+    "long": -47.2046
+  },
+  {
+    "id": 1135205,
+    "nome": "Avenida Major Alfredo Camargo Fonseca, 335",
+    "lat": -23.08508495,
+    "long": -47.20596001
+  },
+  {
+    "id": 1135206,
+    "nome": "Avenida Major Alfredo Camargo Fonseca, 109",
+    "lat": -23.0871,
+    "long": -47.2071
+  },
+  {
+    "id": 1135207,
+    "nome": "Rua Padre Bento Pacheco, 1285-1299 - Praça Rui Barbosa",
+    "lat": -23.0884096,
+    "long": -47.21233803
+  },
+  {
+    "id": 1135208,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 6000",
+    "lat": -23.04034838,
+    "long": -47.16126247
+  },
+  {
+    "id": 1135210,
+    "nome": "Avenida Manoel Ruz Peres, 101",
+    "lat": -23.10211529,
+    "long": -47.25181103
+  },
+  {
+    "id": 1135211,
+    "nome": "Rua 15 de Novembro, 2-82",
+    "lat": -23.090705,
+    "long": -47.21749394
+  },
+  {
+    "id": 1135212,
+    "nome": "Avenida Francisco de Paula Leite, 467",
+    "lat": -23.09515045,
+    "long": -47.21490115
+  },
+  {
+    "id": 1135213,
+    "nome": "Avenida Francisco de Paula Leite, 908-910",
+    "lat": -23.09899523,
+    "long": -47.21604176
+  },
+  {
+    "id": 1135214,
+    "nome": "Avenida Francisco de Paula Leite, 52",
+    "lat": -23.10227779,
+    "long": -47.21675577
+  },
+  {
+    "id": 1135215,
+    "nome": "Avenida Francisco de Paula Leite, 237",
+    "lat": -23.1036802,
+    "long": -47.21732301
+  },
+  {
+    "id": 1135216,
+    "nome": "Avenida Francisco de Paula Leite, 441",
+    "lat": -23.10558464,
+    "long": -47.21807809
+  },
+  {
+    "id": 1135217,
+    "nome": "Avenida Geraldo Hackmann, 776",
+    "lat": -23.10820699,
+    "long": -47.21919046
+  },
+  {
+    "id": 1135218,
+    "nome": "Avenida Francisco de Paula Leite, 2302-2350",
+    "lat": -23.11074251,
+    "long": -47.21997052
+  },
+  {
+    "id": 1135219,
+    "nome": "Avenida Francisco de Paula Leite, 196",
+    "lat": -23.11472466,
+    "long": -47.2218882
+  },
+  {
+    "id": 1135220,
+    "nome": "Avenida Francisco de Paula Leite, 480",
+    "lat": -23.11679875,
+    "long": -47.22301215
+  },
+  {
+    "id": 1135221,
+    "nome": "Avenida Francisco de Paula Leite, 72",
+    "lat": -23.11881909,
+    "long": -47.22405821
+  },
+  {
+    "id": 1135222,
+    "nome": "Avenida Ário Barnabé, 140",
+    "lat": -23.11947021,
+    "long": -47.22582713
+  },
+  {
+    "id": 1135223,
+    "nome": "Avenida Ário Barnabé, 346",
+    "lat": -23.11896509,
+    "long": -47.22781093
+  },
+  {
+    "id": 1135224,
+    "nome": "Avenida Ário Barnabé, 602",
+    "lat": -23.11832394,
+    "long": -47.23038585
+  },
+  {
+    "id": 1135225,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 6020",
+    "lat": -23.11907547,
+    "long": -47.23369569
+  },
+  {
+    "id": 1135226,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 6230-6292",
+    "lat": -23.12200581,
+    "long": -47.23404233
+  },
+  {
+    "id": 1135227,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 6718-6778",
+    "lat": -23.1264,
+    "long": -47.2338
+  },
+  {
+    "id": 1135228,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 7056",
+    "lat": -23.1293,
+    "long": -47.2347
+  },
+  {
+    "id": 1135229,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 7286-7386",
+    "lat": -23.1305,
+    "long": -47.2375
+  },
+  {
+    "id": 1135230,
+    "nome": "Rua Irineu Rocha Ribeiro, 118",
+    "lat": -23.1301556,
+    "long": -47.23907854
+  },
+  {
+    "id": 1135231,
+    "nome": "Rua Serafim Gilberto Candello, 2071-2133",
+    "lat": -23.12984356,
+    "long": -47.24141638
+  },
+  {
+    "id": 1135232,
+    "nome": "Rua Irineu Rocha Ribeiro, 556",
+    "lat": -23.12912336,
+    "long": -47.24302053
+  },
+  {
+    "id": 1135233,
+    "nome": "Rua Irineu Rocha Ribeiro, 708",
+    "lat": -23.12873564,
+    "long": -47.24451894
+  },
+  {
+    "id": 1135234,
+    "nome": "Rua Doutor Raul David do Valle, 63-89",
+    "lat": -23.12837614,
+    "long": -47.24648092
+  },
+  {
+    "id": 1135235,
+    "nome": "Rua Martinho Lutero, 1066",
+    "lat": -23.1272,
+    "long": -47.2472
+  },
+  {
+    "id": 1135236,
+    "nome": "Rua Anhangabaú, 839",
+    "lat": -23.12828893,
+    "long": -47.25181906
+  },
+  {
+    "id": 1135237,
+    "nome": "Rua Jaraguá, 93-117",
+    "lat": -23.1276,
+    "long": -47.2494
+  },
+  {
+    "id": 1135238,
+    "nome": "Rua Tucuruvi, 498-554",
+    "lat": -23.12964807,
+    "long": -47.25122855
+  },
+  {
+    "id": 1135239,
+    "nome": "Rua 4, 80",
+    "lat": -23.1312296,
+    "long": -47.24947318
+  },
+  {
+    "id": 1135240,
+    "nome": "Rua Itaquera, 402-420",
+    "lat": -23.13013055,
+    "long": -47.24855531
+  },
+  {
+    "id": 1135241,
+    "nome": "Rua Itaquera, 105",
+    "lat": -23.12878056,
+    "long": -47.25047488
+  },
+  {
+    "id": 1135242,
+    "nome": "Rua Anhangabaú, 803",
+    "lat": -23.12713197,
+    "long": -47.25143015
+  },
+  {
+    "id": 1135243,
+    "nome": "Rua Anhangabaú, 500-508",
+    "lat": -23.12493957,
+    "long": -47.25074694
+  },
+  {
+    "id": 1135244,
+    "nome": "Rua Anhangabaú, 206-248",
+    "lat": -23.12242302,
+    "long": -47.24991351
+  },
+  {
+    "id": 1135245,
+    "nome": "Rua Antônio Cantelli, 1315",
+    "lat": -23.12098739,
+    "long": -47.24663705
+  },
+  {
+    "id": 1135246,
+    "nome": "Rua Martinho Lutero, 2006",
+    "lat": -23.1197,
+    "long": -47.2461
+  },
+  {
+    "id": 1135247,
+    "nome": "Rua Adélia Philomena Mattioni, 1047-1073",
+    "lat": -23.1192,
+    "long": -47.2439
+  },
+  {
+    "id": 1135248,
+    "nome": "Rua João Martini, 1383-1443",
+    "lat": -23.11881527,
+    "long": -47.24161164
+  },
+  {
+    "id": 1135249,
+    "nome": "Rua João Martini, 1507-1569",
+    "lat": -23.1178,
+    "long": -47.2413
+  },
+  {
+    "id": 1135250,
+    "nome": "Rua João Martini, 1727",
+    "lat": -23.11601731,
+    "long": -47.24076316
+  },
+  {
+    "id": 1135251,
+    "nome": "Avenida Ário Barnabé, 1371",
+    "lat": -23.11657321,
+    "long": -47.23762959
+  },
+  {
+    "id": 1135252,
+    "nome": "Avenida Ário Barnabé, 1013",
+    "lat": -23.11749011,
+    "long": -47.23430347
+  },
+  {
+    "id": 1135253,
+    "nome": "Avenida Ário Barnabé, 603",
+    "lat": -23.1185406,
+    "long": -47.23041299
+  },
+  {
+    "id": 1135254,
+    "nome": "Avenida Ário Barnabé, 175",
+    "lat": -23.11952987,
+    "long": -47.22641108
+  },
+  {
+    "id": 1135255,
+    "nome": "Polo Shopping",
+    "lat": -23.1145431,
+    "long": -47.21844476
+  },
+  {
+    "id": 1135256,
+    "nome": "Rua Quatro, 356",
+    "lat": -23.1368,
+    "long": -47.2308
+  },
+  {
+    "id": 1135258,
+    "nome": "Rua Crisolita, 315-385",
+    "lat": -23.1273,
+    "long": -47.2211
+  },
+  {
+    "id": 1135259,
+    "nome": "Avenida Juscelino Kubitschek de Oliveira, 661",
+    "lat": -23.12577533,
+    "long": -47.22164636
+  },
+  {
+    "id": 1135260,
+    "nome": "Avenida Juscelino Kubitschek de Oliveira, 492-560",
+    "lat": -23.12451482,
+    "long": -47.22236574
+  },
+  {
+    "id": 1135261,
+    "nome": "Avenida Francisco de Paula Leite, 3763-3943",
+    "lat": -23.1222,
+    "long": -47.2248
+  },
+  {
+    "id": 1135263,
+    "nome": "Rua João Martini, 1905-1957",
+    "lat": -23.11436122,
+    "long": -47.24026111
+  },
+  {
+    "id": 1135264,
+    "nome": "Rua João Martini, 2314",
+    "lat": -23.111,
+    "long": -47.23927318
+  },
+  {
+    "id": 1135265,
+    "nome": "Rua Hermínio Steffen, 288",
+    "lat": -23.09746831,
+    "long": -47.23107861
+  },
+  {
+    "id": 1135266,
+    "nome": "Rua Eliza Ghirotti, 700",
+    "lat": -23.09961608,
+    "long": -47.23558366
+  },
+  {
+    "id": 1135268,
+    "nome": "Rua Elza Vieira de Abreu, 378",
+    "lat": -23.0995,
+    "long": -47.241
+  },
+  {
+    "id": 1135269,
+    "nome": "Rua Elza Vieira de Abreu, 91",
+    "lat": -23.10112247,
+    "long": -47.23888462
+  },
+  {
+    "id": 1135270,
+    "nome": "Rua Onório Novachi, 49-101",
+    "lat": -23.10373366,
+    "long": -47.23146503
+  },
+  {
+    "id": 1135271,
+    "nome": "Rua Gerson Antônio de Campos, 166",
+    "lat": -23.10388756,
+    "long": -47.23301195
+  },
+  {
+    "id": 1135273,
+    "nome": "Avenida Manoel Ruz Peres, 3210-3258",
+    "lat": -23.1058,
+    "long": -47.2368
+  },
+  {
+    "id": 1135274,
+    "nome": "Rua Doutor Raul David do Valle, 2051-2099",
+    "lat": -23.11100498,
+    "long": -47.24125305
+  },
+  {
+    "id": 1135275,
+    "nome": "Rua Tuiuti, 240-350",
+    "lat": -23.09199948,
+    "long": -47.21304729
+  },
+  {
+    "id": 1135276,
+    "nome": "Rua Tuiuti, 386",
+    "lat": -23.08757257,
+    "long": -47.21034727
+  },
+  {
+    "id": 1135278,
+    "nome": "Avenida Itororó, 724",
+    "lat": -23.08600703,
+    "long": -47.2068874
+  },
+  {
+    "id": 1135279,
+    "nome": "Rua Basílio Martins, 216",
+    "lat": -23.10313162,
+    "long": -47.21563482
+  },
+  {
+    "id": 1135280,
+    "nome": "Rua Walter Pimentel, 129-131",
+    "lat": -23.10367448,
+    "long": -47.21356396
+  },
+  {
+    "id": 1135281,
+    "nome": "Terminal Praça Bonachella",
+    "lat": -23.10244399,
+    "long": -47.2124995
+  },
+  {
+    "id": 1135282,
+    "nome": "Rua dos Indaiás, 647-669",
+    "lat": -23.10018864,
+    "long": -47.21264537
+  },
+  {
+    "id": 1135283,
+    "nome": "Rua dos Indaiás, 401-431",
+    "lat": -23.09807152,
+    "long": -47.21321711
+  },
+  {
+    "id": 1135284,
+    "nome": "Rua dos Indaiás, 172-174",
+    "lat": -23.09610939,
+    "long": -47.21394955
+  },
+  {
+    "id": 1135285,
+    "nome": "Rua dos Indaiás, 401",
+    "lat": -23.09789019,
+    "long": -47.21336186
+  },
+  {
+    "id": 1135286,
+    "nome": "Rua dos Indaiás, 656",
+    "lat": -23.10001932,
+    "long": -47.21277413
+  },
+  {
+    "id": 1135287,
+    "nome": "Rua João Ceccon, 105",
+    "lat": -23.10460705,
+    "long": -47.2122699
+  },
+  {
+    "id": 1135288,
+    "nome": "Rua Teruo Imanishi, 129-181",
+    "lat": -23.10658005,
+    "long": -47.21255773
+  },
+  {
+    "id": 1135289,
+    "nome": "Rua Domacyr Stocco Junior, 463",
+    "lat": -23.10496909,
+    "long": -47.21417273
+  },
+  {
+    "id": 1135290,
+    "nome": "Rua Domacyr Stocco Junior, 197",
+    "lat": -23.10240586,
+    "long": -47.21516636
+  },
+  {
+    "id": 1135291,
+    "nome": "Rua Basílio Martins, 426",
+    "lat": -23.105,
+    "long": -47.2149
+  },
+  {
+    "id": 1135292,
+    "nome": "Rua Teruo Imanishi, 150",
+    "lat": -23.10651594,
+    "long": -47.2125844
+  },
+  {
+    "id": 1135293,
+    "nome": "Rua Professora Maria Cecília Ifanger, 237",
+    "lat": -23.10472054,
+    "long": -47.21213579
+  },
+  {
+    "id": 1135295,
+    "nome": "Rua Mário de Almeida, 42",
+    "lat": -23.10209934,
+    "long": -47.21181761
+  },
+  {
+    "id": 1135296,
+    "nome": "Rua Reverendo Willybaldo Peralta Alves, 2",
+    "lat": -23.10421969,
+    "long": -47.21136924
+  },
+  {
+    "id": 1135297,
+    "nome": "Rua Reverendo Willybaldo Peralta Alves, 78",
+    "lat": -23.10423452,
+    "long": -47.20872402
+  },
+  {
+    "id": 1135298,
+    "nome": "Rua Reverendo Eliseu Narcizo, 434-498",
+    "lat": -23.1056,
+    "long": -47.2082
+  },
+  {
+    "id": 1135299,
+    "nome": "Rua Francisco Denny, 183",
+    "lat": -23.10705683,
+    "long": -47.20780134
+  },
+  {
+    "id": 1135300,
+    "nome": "Rua Ibatinga, 343",
+    "lat": -23.10632659,
+    "long": -47.2054866
+  },
+  {
+    "id": 1135301,
+    "nome": "Rua Açaí, 126-190",
+    "lat": -23.10398535,
+    "long": -47.20441372
+  },
+  {
+    "id": 1135302,
+    "nome": "Rua Athayde Puccinelli, 432",
+    "lat": -23.10239654,
+    "long": -47.2034347
+  },
+  {
+    "id": 1135303,
+    "nome": "Rua Jurandir de Faria, 471-473",
+    "lat": -23.1013,
+    "long": -47.2033
+  },
+  {
+    "id": 1135304,
+    "nome": "Rua Takashi Fujiwara, 401-413",
+    "lat": -23.0999952,
+    "long": -47.20486258
+  },
+  {
+    "id": 1135305,
+    "nome": "Rua Primo José Mattioni, 821-831",
+    "lat": -23.10156722,
+    "long": -47.20836065
+  },
+  {
+    "id": 1135306,
+    "nome": "Rua Cristina Von Zuben Amstalden, 129-189",
+    "lat": -23.10081353,
+    "long": -47.21085117
+  },
+  {
+    "id": 1135307,
+    "nome": "Avenida Francisco de Paula Leite, 334",
+    "lat": -23.09378804,
+    "long": -47.21468079
+  },
+  {
+    "id": 1135308,
+    "nome": "Avenida Francisco de Paula Leite, 514",
+    "lat": -23.09529028,
+    "long": -47.2152206
+  },
+  {
+    "id": 1135309,
+    "nome": "Terminal Distrito Industrial",
+    "lat": -23.1319816,
+    "long": -47.22805279
+  },
+  {
+    "id": 1135310,
+    "nome": "Rua Antônio Barnabé, 428",
+    "lat": -23.12919654,
+    "long": -47.2267592
+  },
+  {
+    "id": 1135311,
+    "nome": "Rua Antônia Martins Luiz, 71",
+    "lat": -23.12961386,
+    "long": -47.22651458
+  },
+  {
+    "id": 1135312,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 478",
+    "lat": -23.12936855,
+    "long": -47.22379918
+  },
+  {
+    "id": 1135313,
+    "nome": "Rua Crisolita, 443-543",
+    "lat": -23.12841917,
+    "long": -47.22242171
+  },
+  {
+    "id": 1135316,
+    "nome": "Avenida Juscelino Kubitschek de Oliveira, 531",
+    "lat": -23.12461349,
+    "long": -47.22216189
+  },
+  {
+    "id": 1135318,
+    "nome": "Avenida Ário Barnabé, 1078",
+    "lat": -23.11716878,
+    "long": -47.23468244
+  },
+  {
+    "id": 1135319,
+    "nome": "Avenida Ário Barnabé, 1320",
+    "lat": -23.11654467,
+    "long": -47.23708704
+  },
+  {
+    "id": 1135320,
+    "nome": "Avenida Ário Barnabé, 1653-1839",
+    "lat": -23.11568879,
+    "long": -47.24049743
+  },
+  {
+    "id": 1135323,
+    "nome": "Rua José Carlos Wolf, 493",
+    "lat": -23.1209125,
+    "long": -47.23151741
+  },
+  {
+    "id": 1135324,
+    "nome": "Rua José Carlos Wolf, 787-837",
+    "lat": -23.11795933,
+    "long": -47.23062087
+  },
+  {
+    "id": 1135325,
+    "nome": "Rua José Carlos Wolf, 689",
+    "lat": -23.11913824,
+    "long": -47.23098285
+  },
+  {
+    "id": 1135326,
+    "nome": "Rua José Carlos Wolf, 291",
+    "lat": -23.12256284,
+    "long": -47.23200646
+  },
+  {
+    "id": 1135327,
+    "nome": "Rua Doutor Renato Riggio, 337-401",
+    "lat": -23.12522505,
+    "long": -47.23084759
+  },
+  {
+    "id": 1135328,
+    "nome": "Rua Antônio Angelino Rossi, 216",
+    "lat": -23.12622095,
+    "long": -47.23567134
+  },
+  {
+    "id": 1135329,
+    "nome": "Rua Antônio Angelino Rossi, 548",
+    "lat": -23.12540297,
+    "long": -47.23886915
+  },
+  {
+    "id": 1135330,
+    "nome": "Rua Serafim Gilberto Candello, 1138",
+    "lat": -23.1237447,
+    "long": -47.23950179
+  },
+  {
+    "id": 1135331,
+    "nome": "Rua Serafim Gilberto Candello, 1294-1358",
+    "lat": -23.12196773,
+    "long": -47.23896361
+  },
+  {
+    "id": 1135332,
+    "nome": "Rua Serafim Gilberto Candello, 1504-1510",
+    "lat": -23.1203,
+    "long": -47.2385
+  },
+  {
+    "id": 1135333,
+    "nome": "Rua Serafim Gilberto Candello, 1768",
+    "lat": -23.1181,
+    "long": -47.2378
+  },
+  {
+    "id": 1135334,
+    "nome": "Avenida Manoel Ruz Peres, 581",
+    "lat": -23.1059442,
+    "long": -47.23690331
+  },
+  {
+    "id": 1135335,
+    "nome": "Rua Nabor Píres de Camargo, 522-564",
+    "lat": -23.10473287,
+    "long": -47.2351706
+  },
+  {
+    "id": 1135336,
+    "nome": "Rua Nabor Píres de Camargo, 698-740",
+    "lat": -23.1042962,
+    "long": -47.23688453
+  },
+  {
+    "id": 1135337,
+    "nome": "Avenida Domingos Ferrarezi, 540",
+    "lat": -23.10058814,
+    "long": -47.23760873
+  },
+  {
+    "id": 1135338,
+    "nome": "Rua Eliza Ghirotti, 808",
+    "lat": -23.09925834,
+    "long": -47.23658144
+  },
+  {
+    "id": 1135340,
+    "nome": "Avenida Ivan Roberto Canavezi, 115",
+    "lat": -23.09691224,
+    "long": -47.22958231
+  },
+  {
+    "id": 1135341,
+    "nome": "Rua Maria Olivatto de Souza, 345",
+    "lat": -23.09785698,
+    "long": -47.23439276
+  },
+  {
+    "id": 1135342,
+    "nome": "Rua Maria Olivatto de Souza, 157-345",
+    "lat": -23.09683063,
+    "long": -47.23393679
+  },
+  {
+    "id": 1135343,
+    "nome": "Rua Álvaro L Luz, 170",
+    "lat": -23.10006757,
+    "long": -47.2336176
+  },
+  {
+    "id": 1135344,
+    "nome": "Rua Eliza Ghirotti, 685",
+    "lat": -23.09969503,
+    "long": -47.23547906
+  },
+  {
+    "id": 1135345,
+    "nome": "Avenida Domingos Ferrarezi, 501-587",
+    "lat": -23.1003809,
+    "long": -47.23775089
+  },
+  {
+    "id": 1135346,
+    "nome": "Rua Sebastião Wilson Gomes Carneiro, 35",
+    "lat": -23.09995086,
+    "long": -47.2402184
+  },
+  {
+    "id": 1135347,
+    "nome": "Rua Elza Vieira de Abreu, 509",
+    "lat": -23.09881973,
+    "long": -47.24181015
+  },
+  {
+    "id": 1135348,
+    "nome": "Rua Onório Novachi, 86",
+    "lat": -23.10375188,
+    "long": -47.23155424
+  },
+  {
+    "id": 1135349,
+    "nome": "Rua Gerson Antônio de Campos, 175",
+    "lat": -23.1038454,
+    "long": -47.23295143
+  },
+  {
+    "id": 1135350,
+    "nome": "Rua Guarino Vanucci, 343",
+    "lat": -23.1031628,
+    "long": -47.23443229
+  },
+  {
+    "id": 1135351,
+    "nome": "Rua Luiz Laurenciano, 343",
+    "lat": -23.10275181,
+    "long": -47.23662436
+  },
+  {
+    "id": 1135352,
+    "nome": "Rua Edwino Bannwart, 100",
+    "lat": -23.10540917,
+    "long": -47.23434198
+  },
+  {
+    "id": 1135354,
+    "nome": "Avenida dos Artífices, 330-382",
+    "lat": -23.10889325,
+    "long": -47.23880469
+  },
+  {
+    "id": 1135356,
+    "nome": "Rua Maria Olivatto de Souza, 935",
+    "lat": -23.09793347,
+    "long": -47.234492
+  },
+  {
+    "id": 1135357,
+    "nome": "Rua Maria Olivatto de Souza, 1051",
+    "lat": -23.09665299,
+    "long": -47.23399043
+  },
+  {
+    "id": 1135358,
+    "nome": "Rua Doutor Raul David do Valle, 1901-1917",
+    "lat": -23.11374387,
+    "long": -47.24207037
+  },
+  {
+    "id": 1135361,
+    "nome": "Avenida Visconde de Indaiatuba, 352-458",
+    "lat": -23.08922305,
+    "long": -47.20133469
+  },
+  {
+    "id": 1135362,
+    "nome": "Rua Itu, 2-110",
+    "lat": -23.09032197,
+    "long": -47.19978154
+  },
+  {
+    "id": 1135363,
+    "nome": "Rua Vinte e Quatro de Maio, 2730-2798",
+    "lat": -23.09248965,
+    "long": -47.19940933
+  },
+  {
+    "id": 1135364,
+    "nome": "Rua México, 300",
+    "lat": -23.09242362,
+    "long": -47.19741497
+  },
+  {
+    "id": 1135365,
+    "nome": "Avenida Conceição, 148",
+    "lat": -23.0905,
+    "long": -47.1954
+  },
+  {
+    "id": 1135366,
+    "nome": "Rua Ignácio Ambiel Júnior, 166",
+    "lat": -23.08962945,
+    "long": -47.19342972
+  },
+  {
+    "id": 1135367,
+    "nome": "Rua Antônio Gil, 82",
+    "lat": -23.08938367,
+    "long": -47.19087532
+  },
+  {
+    "id": 1135368,
+    "nome": "Rua Giórgio Clini, 66-128",
+    "lat": -23.08917564,
+    "long": -47.18931832
+  },
+  {
+    "id": 1135369,
+    "nome": "Rua Giórgio Clini, 610-670",
+    "lat": -23.08997493,
+    "long": -47.1863495
+  },
+  {
+    "id": 1135370,
+    "nome": "Rua Celso Figueira, 181-217",
+    "lat": -23.0886659,
+    "long": -47.18552477
+  },
+  {
+    "id": 1135371,
+    "nome": "Rua Hildebrando Corraine, 1-29",
+    "lat": -23.08662791,
+    "long": -47.18490109
+  },
+  {
+    "id": 1135372,
+    "nome": "Marginal Norte, 4",
+    "lat": -23.08654496,
+    "long": -47.17755079
+  },
+  {
+    "id": 1135373,
+    "nome": "Rodovia Lix da Cunha - Jardim dos Lagos",
+    "lat": -23.08837797,
+    "long": -47.1761321
+  },
+  {
+    "id": 1135374,
+    "nome": "Rodovia Lix da Cunha, 585",
+    "lat": -23.08952895,
+    "long": -47.17199279
+  },
+  {
+    "id": 1135375,
+    "nome": "Rodovia Lix da Cunha, 2601",
+    "lat": -23.08979376,
+    "long": -47.17017318
+  },
+  {
+    "id": 1135376,
+    "nome": "Rodovia Lix da Cunha, 3033",
+    "lat": -23.08802167,
+    "long": -47.16688941
+  },
+  {
+    "id": 1135377,
+    "nome": "Rodovia Lix da Cunha",
+    "lat": -23.08510857,
+    "long": -47.16299271
+  },
+  {
+    "id": 1135378,
+    "nome": "Estrada IDT 334",
+    "lat": -23.0837,
+    "long": -47.1627
+  },
+  {
+    "id": 1135379,
+    "nome": "Marginal Sul, 1257-1841",
+    "lat": -23.07518754,
+    "long": -47.1681165
+  },
+  {
+    "id": 1135380,
+    "nome": "Marginal Sul, 1258-1842",
+    "lat": -23.07872259,
+    "long": -47.1715922
+  },
+  {
+    "id": 1135381,
+    "nome": "Marginal Sul, 559-1249",
+    "lat": -23.08270603,
+    "long": -47.17529823
+  },
+  {
+    "id": 1135382,
+    "nome": "Rua Hildebrando Corraine, 2-30",
+    "lat": -23.08662452,
+    "long": -47.18496911
+  },
+  {
+    "id": 1135383,
+    "nome": "Rua Luiz Quintino, 450-470",
+    "lat": -23.0886637,
+    "long": -47.18560355
+  },
+  {
+    "id": 1135384,
+    "nome": "Rua Giórgio Clini, 610-670",
+    "lat": -23.08994295,
+    "long": -47.18617835
+  },
+  {
+    "id": 1135385,
+    "nome": "Rua Giórgio Clini, 363",
+    "lat": -23.0891439,
+    "long": -47.1891927
+  },
+  {
+    "id": 1135386,
+    "nome": "Rua Antônio Gil, 85",
+    "lat": -23.08940892,
+    "long": -47.19096569
+  },
+  {
+    "id": 1135388,
+    "nome": "Avenida Conceição, 255-301",
+    "lat": -23.08938333,
+    "long": -47.19498065
+  },
+  {
+    "id": 1135389,
+    "nome": "Avenida Conceição, 107",
+    "lat": -23.09067079,
+    "long": -47.19573166
+  },
+  {
+    "id": 1135390,
+    "nome": "Rua Venezuela, 2-112",
+    "lat": -23.0923,
+    "long": -47.1967
+  },
+  {
+    "id": 1135392,
+    "nome": "Rua Elias Fausto, 41-109",
+    "lat": -23.09021875,
+    "long": -47.20104368
+  },
+  {
+    "id": 1135393,
+    "nome": "Avenida Visconde de Indaiatuba, 199-299 - Hospital Dia",
+    "lat": -23.0884621,
+    "long": -47.20238132
+  },
+  {
+    "id": 1135394,
+    "nome": "Avenida Presidente Vargas, 595-629",
+    "lat": -23.08731672,
+    "long": -47.20539808
+  },
+  {
+    "id": 1135395,
+    "nome": "Avenida Itororó, 111",
+    "lat": -23.0827,
+    "long": -47.2123
+  },
+  {
+    "id": 1135396,
+    "nome": "Rua Quinze de Novembro, 1474-1486",
+    "lat": -23.08051627,
+    "long": -47.21162108
+  },
+  {
+    "id": 1135397,
+    "nome": "Avenida Presidente Kenedy, 404-470",
+    "lat": -23.08032585,
+    "long": -47.21039261
+  },
+  {
+    "id": 1135398,
+    "nome": "Avenida Presidente Kennedy, 886",
+    "lat": -23.0823442,
+    "long": -47.2058374
+  },
+  {
+    "id": 1135399,
+    "nome": "Avenida Presidente Kennedy, 1192-1198",
+    "lat": -23.0835939,
+    "long": -47.20325907
+  },
+  {
+    "id": 1135400,
+    "nome": "Avenida Presidente Kennedy, 1530",
+    "lat": -23.08495356,
+    "long": -47.2004313
+  },
+  {
+    "id": 1135401,
+    "nome": "Avenida Presidente Kennedy, 1659-1671",
+    "lat": -23.08576681,
+    "long": -47.19882661
+  },
+  {
+    "id": 1135402,
+    "nome": "Avenida Presidente Vargas, 2022",
+    "lat": -23.08557363,
+    "long": -47.19620565
+  },
+  {
+    "id": 1135403,
+    "nome": "Avenida Presidente Vargas, 1780",
+    "lat": -23.08528387,
+    "long": -47.19487129
+  },
+  {
+    "id": 1135404,
+    "nome": "Avenida Conceição, 1160",
+    "lat": -23.08219685,
+    "long": -47.19601981
+  },
+  {
+    "id": 1135405,
+    "nome": "Avenida Conceição, 1438",
+    "lat": -23.08039606,
+    "long": -47.19768551
+  },
+  {
+    "id": 1135406,
+    "nome": "Rua Xavante, 372",
+    "lat": -23.07824392,
+    "long": -47.19516522
+  },
+  {
+    "id": 1135407,
+    "nome": "Rua Tamoio, 576-664",
+    "lat": -23.07642447,
+    "long": -47.19293089
+  },
+  {
+    "id": 1135408,
+    "nome": "Rua Sivaldo José Bertoli, 1-123",
+    "lat": -23.07674585,
+    "long": -47.19092983
+  },
+  {
+    "id": 1135409,
+    "nome": "Rua Henrique Mora, 336-378",
+    "lat": -23.07818839,
+    "long": -47.18990887
+  },
+  {
+    "id": 1135410,
+    "nome": "Rua Carlos Pucci, 153-195",
+    "lat": -23.07771611,
+    "long": -47.19199899
+  },
+  {
+    "id": 1135411,
+    "nome": "Rua Carlos Pucci, 285-327",
+    "lat": -23.07864605,
+    "long": -47.19113409
+  },
+  {
+    "id": 1135412,
+    "nome": "Rua José Milanesi, 107",
+    "lat": -23.07395314,
+    "long": -47.19131991
+  },
+  {
+    "id": 1135413,
+    "nome": "Rua Teotônio Vilela, 299-361",
+    "lat": -23.07490039,
+    "long": -47.1937461
+  },
+  {
+    "id": 1135414,
+    "nome": "Rua Teotônio Vilela, 147-169",
+    "lat": -23.07363889,
+    "long": -47.19481924
+  },
+  {
+    "id": 1135415,
+    "nome": "Rua Odacir Junqueira, 531",
+    "lat": -23.07403984,
+    "long": -47.19599278
+  },
+  {
+    "id": 1135416,
+    "nome": "Rua Tupi, 325-395",
+    "lat": -23.07683991,
+    "long": -47.19651361
+  },
+  {
+    "id": 1135417,
+    "nome": "Rua Aimoré, 269",
+    "lat": -23.07934175,
+    "long": -47.19507205
+  },
+  {
+    "id": 1135418,
+    "nome": "Rua Aimoré, 83-111",
+    "lat": -23.08042877,
+    "long": -47.19645548
+  },
+  {
+    "id": 1135419,
+    "nome": "Avenida Conceição, 1123-1203",
+    "lat": -23.08221324,
+    "long": -47.1962375
+  },
+  {
+    "id": 1135420,
+    "nome": "Avenida Conceição, 904",
+    "lat": -23.0839413,
+    "long": -47.1943742
+  },
+  {
+    "id": 1135421,
+    "nome": "Avenida Presidente Vargas, 1797-1821",
+    "lat": -23.08499872,
+    "long": -47.19460693
+  },
+  {
+    "id": 1135422,
+    "nome": "Avenida Presidente Vargas, 1535",
+    "lat": -23.08548344,
+    "long": -47.19701082
+  },
+  {
+    "id": 1135423,
+    "nome": "Avenida Presidente Kennedy, 1657-1671",
+    "lat": -23.08561001,
+    "long": -47.19864787
+  },
+  {
+    "id": 1135424,
+    "nome": "Avenida Presidente Kennedy, 1529",
+    "lat": -23.08480314,
+    "long": -47.20032275
+  },
+  {
+    "id": 1135425,
+    "nome": "Avenida Presidente Kennedy, 1195",
+    "lat": -23.08343318,
+    "long": -47.2031667
+  },
+  {
+    "id": 1135426,
+    "nome": "Avenida Presidente Kennedy, 817",
+    "lat": -23.08186607,
+    "long": -47.20640734
+  },
+  {
+    "id": 1135427,
+    "nome": "Avenida Presidente Kenedy, 351-369",
+    "lat": -23.08012433,
+    "long": -47.21039015
+  },
+  {
+    "id": 1135428,
+    "nome": "Avenida Itororó, 18-136",
+    "lat": -23.08279705,
+    "long": -47.21248514
+  },
+  {
+    "id": 1135429,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 5267",
+    "lat": -23.11655422,
+    "long": -47.23189327
+  },
+  {
+    "id": 1135430,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 5139",
+    "lat": -23.11532553,
+    "long": -47.23179175
+  },
+  {
+    "id": 1135431,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 4925",
+    "lat": -23.11340703,
+    "long": -47.2310592
+  },
+  {
+    "id": 1135432,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 4657",
+    "lat": -23.11124406,
+    "long": -47.23021242
+  },
+  {
+    "id": 1135433,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 4335",
+    "lat": -23.1087,
+    "long": -47.229
+  },
+  {
+    "id": 1135434,
+    "nome": "Rua Kahlil Gibran, 188",
+    "lat": -23.10683727,
+    "long": -47.2265178
+  },
+  {
+    "id": 1135435,
+    "nome": "Rua Professor Osvaldo Antônio Tuon, 309",
+    "lat": -23.1054,
+    "long": -47.2256
+  },
+  {
+    "id": 1135436,
+    "nome": "Rua Professor Osvaldo Antônio Tuon, 532-598",
+    "lat": -23.10340065,
+    "long": -47.22440958
+  },
+  {
+    "id": 1135437,
+    "nome": "Rua Deusdedith Godinho, 110",
+    "lat": -23.10329092,
+    "long": -47.22278332
+  },
+  {
+    "id": 1135438,
+    "nome": "Rua Albina Brizola Ulistka, 685",
+    "lat": -23.10303271,
+    "long": -47.22114118
+  },
+  {
+    "id": 1135439,
+    "nome": "Rua Alcides Pironhe, 118-166",
+    "lat": -23.10136769,
+    "long": -47.22026441
+  },
+  {
+    "id": 1135440,
+    "nome": "Rua Thomaz Barrio Gomez, 60-110",
+    "lat": -23.09964815,
+    "long": -47.22045601
+  },
+  {
+    "id": 1135441,
+    "nome": "Rua Antônio Ulistka, 291",
+    "lat": -23.09867449,
+    "long": -47.22050404
+  },
+  {
+    "id": 1135442,
+    "nome": "Rua Antônio Ulistka, 142",
+    "lat": -23.09785583,
+    "long": -47.21942297
+  },
+  {
+    "id": 1135443,
+    "nome": "Rua Pérsio Sampaio Filho, 101-163",
+    "lat": -23.09702553,
+    "long": -47.21842825
+  },
+  {
+    "id": 1135444,
+    "nome": "Avenida Major Alfredo Camargo Fonseca, 332",
+    "lat": -23.08521696,
+    "long": -47.2058849
+  },
+  {
+    "id": 1135445,
+    "nome": "Avenida Major Alfredo Camargo Fonseca, 584",
+    "lat": -23.0832,
+    "long": -47.2047
+  },
+  {
+    "id": 1135446,
+    "nome": "Rua Almirante Tamandaré, 1153-1327",
+    "lat": -23.08441384,
+    "long": -47.19634878
+  },
+  {
+    "id": 1135447,
+    "nome": "Rua Almirante Tamandaré, 697-785",
+    "lat": -23.0814,
+    "long": -47.2
+  },
+  {
+    "id": 1135448,
+    "nome": "Rua Almirante Tamandaré, 675",
+    "lat": -23.08,
+    "long": -47.2017
+  },
+  {
+    "id": 1135449,
+    "nome": "Rua Alagoas, 258-320",
+    "lat": -23.07638576,
+    "long": -47.20191658
+  },
+  {
+    "id": 1135450,
+    "nome": "Rua Presidente Alves, 78-140",
+    "lat": -23.0736245,
+    "long": -47.20193535
+  },
+  {
+    "id": 1135451,
+    "nome": "Rua Yolanda Steffen Professor, 135",
+    "lat": -23.0732,
+    "long": -47.1992
+  },
+  {
+    "id": 1135452,
+    "nome": "Rua Padre Álvaro Augusto Ambiel, 152-162",
+    "lat": -23.0737,
+    "long": -47.1982
+  },
+  {
+    "id": 1135453,
+    "nome": "Rua Padre Álvaro Augusto Ambiel, 361",
+    "lat": -23.0728003,
+    "long": -47.19663262
+  },
+  {
+    "id": 1135455,
+    "nome": "Rua Professor Antônio de Queirós Filho, 1-55",
+    "lat": -23.07416491,
+    "long": -47.19548866
+  },
+  {
+    "id": 1135456,
+    "nome": "Rua Padre Álvaro Augusto Ambiel, 375",
+    "lat": -23.07277316,
+    "long": -47.19637245
+  },
+  {
+    "id": 1135457,
+    "nome": "Rua Padre Álvaro Augusto Ambiel, 131",
+    "lat": -23.07366892,
+    "long": -47.1983707
+  },
+  {
+    "id": 1135458,
+    "nome": "Rua Tupinambás, 1006",
+    "lat": -23.07405866,
+    "long": -47.19973793
+  },
+  {
+    "id": 1135459,
+    "nome": "Rua Presidente Bernardes, 129-173",
+    "lat": -23.07527227,
+    "long": -47.20424296
+  },
+  {
+    "id": 1135460,
+    "nome": "Rua Rêmulo Zoppi, 401-451",
+    "lat": -23.07786877,
+    "long": -47.20641196
+  },
+  {
+    "id": 1135461,
+    "nome": "Avenida Doutor Jácomo Nazário, 997",
+    "lat": -23.07979839,
+    "long": -47.20300823
+  },
+  {
+    "id": 1135462,
+    "nome": "Avenida Presidente Vargas, 558-578",
+    "lat": -23.08761596,
+    "long": -47.20576172
+  },
+  {
+    "id": 1135463,
+    "nome": "Avenida Presidente Vargas, 1000",
+    "lat": -23.0867,
+    "long": -47.2017
+  },
+  {
+    "id": 1135464,
+    "nome": "Avenida Presidente Kenedy, 166",
+    "lat": -23.07906599,
+    "long": -47.21223837
+  },
+  {
+    "id": 1135465,
+    "nome": "Avenida João Ambiel, 62-128",
+    "lat": -23.0769,
+    "long": -47.2126
+  },
+  {
+    "id": 1135466,
+    "nome": "Avenida João Ambiel, 97",
+    "lat": -23.0753,
+    "long": -47.2141
+  },
+  {
+    "id": 1135467,
+    "nome": "Rua Christiano Seleguin, 193",
+    "lat": -23.0667,
+    "long": -47.2174
+  },
+  {
+    "id": 1135468,
+    "nome": "Rua Christiano Seleguin, 1-31",
+    "lat": -23.06543425,
+    "long": -47.21804177
+  },
+  {
+    "id": 1135469,
+    "nome": "Rua Christiano Seleguin, 131-195",
+    "lat": -23.06426012,
+    "long": -47.21741799
+  },
+  {
+    "id": 1135470,
+    "nome": "Rua Christiano Seleguin, 262-314",
+    "lat": -23.0631,
+    "long": -47.2171
+  },
+  {
+    "id": 1135471,
+    "nome": "Rua Christiano Seleguin, 462-526",
+    "lat": -23.0617,
+    "long": -47.2161
+  },
+  {
+    "id": 1135472,
+    "nome": "Estrada Doutor Rafael Elias José Aun, 1200",
+    "lat": -23.05960832,
+    "long": -47.21374995
+  },
+  {
+    "id": 1135473,
+    "nome": "Rua Antônio Quinteiro, 35-97",
+    "lat": -23.0546,
+    "long": -47.2088
+  },
+  {
+    "id": 1135475,
+    "nome": "Rua Luíza Rocha Ribeiro, 421-485",
+    "lat": -23.05510113,
+    "long": -47.20617056
+  },
+  {
+    "id": 1135476,
+    "nome": "Rua Artur Seabra Coelho da Rocha, 2-64",
+    "lat": -23.05375855,
+    "long": -47.2058782
+  },
+  {
+    "id": 1135477,
+    "nome": "Rua Artur Seabra Coelho da Rocha, 304-330",
+    "lat": -23.0526936,
+    "long": -47.20820099
+  },
+  {
+    "id": 1135478,
+    "nome": "Rua Tieko Ueda, 1-149",
+    "lat": -23.05448907,
+    "long": -47.20946968
+  },
+  {
+    "id": 1135479,
+    "nome": "Rua Christiano Seleguin, 691-715",
+    "lat": -23.05956076,
+    "long": -47.21396829
+  },
+  {
+    "id": 1135480,
+    "nome": "Rua Christiano Seleguin, 461-525",
+    "lat": -23.0614659,
+    "long": -47.21604913
+  },
+  {
+    "id": 1135481,
+    "nome": "Rua Francisco Batista Arvani, 216",
+    "lat": -23.06090071,
+    "long": -47.21810699
+  },
+  {
+    "id": 1135482,
+    "nome": "Rua José Fanger, 351-683",
+    "lat": -23.06200792,
+    "long": -47.21926912
+  },
+  {
+    "id": 1135483,
+    "nome": "Rua Ricieri Delbone, 65",
+    "lat": -23.0632,
+    "long": -47.2179
+  },
+  {
+    "id": 1135484,
+    "nome": "Rua Christiano Seleguin, 132-196",
+    "lat": -23.0642,
+    "long": -47.2173
+  },
+  {
+    "id": 1135485,
+    "nome": "Avenida João Ambiel, 30",
+    "lat": -23.07057902,
+    "long": -47.21724904
+  },
+  {
+    "id": 1135486,
+    "nome": "Rua Eiffel",
+    "lat": -23.0755,
+    "long": -47.2143
+  },
+  {
+    "id": 1135487,
+    "nome": "Avenida João Ambiel, 2655-2727",
+    "lat": -23.0771,
+    "long": -47.2127
+  },
+  {
+    "id": 1135488,
+    "nome": "Avenida Presidente Kenedy, 150-160",
+    "lat": -23.07917518,
+    "long": -47.21239836
+  },
+  {
+    "id": 1135489,
+    "nome": "Avenida Itororó, 372-420",
+    "lat": -23.08444869,
+    "long": -47.2101157
+  },
+  {
+    "id": 1135490,
+    "nome": "Avenida Presidente Vargas, 1031",
+    "lat": -23.08650742,
+    "long": -47.20150352
+  },
+  {
+    "id": 1135491,
+    "nome": "Rua Tuiuti, 876-896",
+    "lat": -23.0835,
+    "long": -47.2082
+  },
+  {
+    "id": 1135492,
+    "nome": "Avenida Presidente Kennedy, 756",
+    "lat": -23.0818,
+    "long": -47.2072
+  },
+  {
+    "id": 1135493,
+    "nome": "Rua Tuiuti, 1371",
+    "lat": -23.0796,
+    "long": -47.206
+  },
+  {
+    "id": 1135494,
+    "nome": "Rua Almirante Barroso, 327-413",
+    "lat": -23.0782,
+    "long": -47.2061
+  },
+  {
+    "id": 1135495,
+    "nome": "Rua Treze de Maio, 1909",
+    "lat": -23.0768,
+    "long": -47.2067
+  },
+  {
+    "id": 1135496,
+    "nome": "Avenida Conceição, 2391-2479",
+    "lat": -23.07458883,
+    "long": -47.20454099
+  },
+  {
+    "id": 1135497,
+    "nome": "Avenida Conceição, 1907-1987",
+    "lat": -23.0771,
+    "long": -47.2009
+  },
+  {
+    "id": 1135498,
+    "nome": "Avenida Conceição, 1515-1543",
+    "lat": -23.07977818,
+    "long": -47.19856379
+  },
+  {
+    "id": 1135499,
+    "nome": "Avenida Conceição, 437-621",
+    "lat": -23.0866,
+    "long": -47.1938
+  },
+  {
+    "id": 1135501,
+    "nome": "Avenida Conceição, 402-458",
+    "lat": -23.08835243,
+    "long": -47.19413432
+  },
+  {
+    "id": 1135502,
+    "nome": "Avenida Conceição, 670",
+    "lat": -23.0859,
+    "long": -47.1936
+  },
+  {
+    "id": 1135503,
+    "nome": "Avenida Conceição, 873-1001",
+    "lat": -23.08382286,
+    "long": -47.19470948
+  },
+  {
+    "id": 1135504,
+    "nome": "Avenida Conceição, 1654",
+    "lat": -23.0789,
+    "long": -47.1991
+  },
+  {
+    "id": 1135505,
+    "nome": "Avenida Conceição, 1940",
+    "lat": -23.07681018,
+    "long": -47.20091343
+  },
+  {
+    "id": 1135506,
+    "nome": "Rua Almirante Tamandaré, 80",
+    "lat": -23.07737772,
+    "long": -47.20497966
+  },
+  {
+    "id": 1135507,
+    "nome": "Rua Doutor Oswaldo Cruz, 1517-1571",
+    "lat": -23.07855722,
+    "long": -47.2044003
+  },
+  {
+    "id": 1135508,
+    "nome": "Rua Joaquim de Paula Leite, 234",
+    "lat": -23.0749,
+    "long": -47.2119
+  },
+  {
+    "id": 1135509,
+    "nome": "Rua Joaquim de Paula Leite, 472",
+    "lat": -23.0729,
+    "long": -47.2108
+  },
+  {
+    "id": 1135510,
+    "nome": "Rua Gaivota, 574-622",
+    "lat": -23.07316305,
+    "long": -47.20956624
+  },
+  {
+    "id": 1135511,
+    "nome": "Rua Gaivota, 283-365",
+    "lat": -23.0740514,
+    "long": -47.20779598
+  },
+  {
+    "id": 1135512,
+    "nome": "Rua Tangará, 295-361",
+    "lat": -23.07175789,
+    "long": -47.20564271
+  },
+  {
+    "id": 1135513,
+    "nome": "Rua Tupinambás, 685",
+    "lat": -23.0768,
+    "long": -47.1978
+  },
+  {
+    "id": 1135514,
+    "nome": "Avenida Conceição, 2464",
+    "lat": -23.07442648,
+    "long": -47.20481336
+  },
+  {
+    "id": 1135515,
+    "nome": "Avenida Conceição, 2876-3050",
+    "lat": -23.07664154,
+    "long": -47.20895585
+  },
+  {
+    "id": 1135517,
+    "nome": "Rua Itu, 339-423",
+    "lat": -23.09277694,
+    "long": -47.20134526
+  },
+  {
+    "id": 1135518,
+    "nome": "Rua Pederneiras, 24",
+    "lat": -23.0946852,
+    "long": -47.20245901
+  },
+  {
+    "id": 1135519,
+    "nome": "Rua Pederneiras, 262-306",
+    "lat": -23.0965,
+    "long": -47.2032
+  },
+  {
+    "id": 1135520,
+    "nome": "Rua João Batista D' Alessandro, 540",
+    "lat": -23.09833116,
+    "long": -47.2043011
+  },
+  {
+    "id": 1135521,
+    "nome": "Rua Salvador Castilho, 173-237",
+    "lat": -23.09958569,
+    "long": -47.20609522
+  },
+  {
+    "id": 1135522,
+    "nome": "Rua Takashi Fujiwara, 299",
+    "lat": -23.10049806,
+    "long": -47.20580732
+  },
+  {
+    "id": 1135523,
+    "nome": "Rua Takashi Fujiwara, 115",
+    "lat": -23.10128974,
+    "long": -47.20731037
+  },
+  {
+    "id": 1135524,
+    "nome": "Rua Reverendo Willybaldo Peralta Alves, 359-445",
+    "lat": -23.1042168,
+    "long": -47.20753189
+  },
+  {
+    "id": 1135526,
+    "nome": "Rua Reverendo Willybaldo Peralta Alves, 2",
+    "lat": -23.10412597,
+    "long": -47.2114867
+  },
+  {
+    "id": 1135527,
+    "nome": "Rua dos Indaiás, 1360",
+    "lat": -23.10652803,
+    "long": -47.21114687
+  },
+  {
+    "id": 1135528,
+    "nome": "Rua Sílvio Talli, 230-492",
+    "lat": -23.10997533,
+    "long": -47.21156245
+  },
+  {
+    "id": 1135529,
+    "nome": "Marginal Norte",
+    "lat": -23.1123,
+    "long": -47.2102
+  },
+  {
+    "id": 1135530,
+    "nome": "Rua Yoriko Gonçalves, 240",
+    "lat": -23.10921546,
+    "long": -47.20470607
+  },
+  {
+    "id": 1135531,
+    "nome": "Rua Yoriko Gonçalves, 410",
+    "lat": -23.1095,
+    "long": -47.2027
+  },
+  {
+    "id": 1135532,
+    "nome": "Rua Yoriko Gonçalves, 510-568",
+    "lat": -23.1097,
+    "long": -47.2014
+  },
+  {
+    "id": 1135533,
+    "nome": "Rua Pedro Antonio, 123",
+    "lat": -23.11164899,
+    "long": -47.20013384
+  },
+  {
+    "id": 1135534,
+    "nome": "Rua Natália Brisigheli Perini, 63-123",
+    "lat": -23.11245477,
+    "long": -47.20116098
+  },
+  {
+    "id": 1135535,
+    "nome": "Rua Natália Brisigheli Perini, 189-251",
+    "lat": -23.11226955,
+    "long": -47.20238328
+  },
+  {
+    "id": 1135536,
+    "nome": "Rua Natália Brisigheli Perini, 319-379",
+    "lat": -23.11209014,
+    "long": -47.20358802
+  },
+  {
+    "id": 1135537,
+    "nome": "Rua Antônio Sizotto Filho, 190-202",
+    "lat": -23.1106,
+    "long": -47.2037
+  },
+  {
+    "id": 1135538,
+    "nome": "Rua Yoriko Gonçalves, 59-229",
+    "lat": -23.10915625,
+    "long": -47.20440567
+  },
+  {
+    "id": 1135539,
+    "nome": "Marginal Norte",
+    "lat": -23.11178767,
+    "long": -47.20994828
+  },
+  {
+    "id": 1135540,
+    "nome": "Rua Romeu Ferigati, 215",
+    "lat": -23.1095607,
+    "long": -47.21099038
+  },
+  {
+    "id": 1135541,
+    "nome": "Rua Primo José Mattioni, 1093-1161",
+    "lat": -23.10383947,
+    "long": -47.2074456
+  },
+  {
+    "id": 1135542,
+    "nome": "Rua Maria Paratello Barnabé, 160",
+    "lat": -23.10142096,
+    "long": -47.20664986
+  },
+  {
+    "id": 1135543,
+    "nome": "Rua Salvador Castilho, 173-237",
+    "lat": -23.09962572,
+    "long": -47.20597274
+  },
+  {
+    "id": 1135544,
+    "nome": "Rua João Batista D' Alessandro, 533",
+    "lat": -23.09824762,
+    "long": -47.20429412
+  },
+  {
+    "id": 1135546,
+    "nome": "Rua Professora Suzana Benedita G. Aíres, 2-62",
+    "lat": -23.09542714,
+    "long": -47.20220805
+  },
+  {
+    "id": 1135547,
+    "nome": "Rua Nova República, 85",
+    "lat": -23.0954,
+    "long": -47.2013
+  },
+  {
+    "id": 1135548,
+    "nome": "Rua Salto, 64-98",
+    "lat": -23.09402295,
+    "long": -47.20055539
+  },
+  {
+    "id": 1135549,
+    "nome": "Rua Salto, 246",
+    "lat": -23.09264309,
+    "long": -47.19976346
+  },
+  {
+    "id": 1135550,
+    "nome": "Rua Groelândia, 184",
+    "lat": -23.0908,
+    "long": -47.1986
+  },
+  {
+    "id": 1135551,
+    "nome": "Rua Regente Feijó, 424-464",
+    "lat": -23.0825,
+    "long": -47.2014
+  },
+  {
+    "id": 1135552,
+    "nome": "Rua Dom Idelfonso Stehle, 864",
+    "lat": -23.0814,
+    "long": -47.2034
+  },
+  {
+    "id": 1135553,
+    "nome": "Rua das Orquídeas, 2-200",
+    "lat": -23.09436206,
+    "long": -47.2198095
+  },
+  {
+    "id": 1135554,
+    "nome": "Rua das Camélias, 1-163",
+    "lat": -23.09641954,
+    "long": -47.22039338
+  },
+  {
+    "id": 1135556,
+    "nome": "Rua Pérsio Sampaio Filho, 102-164",
+    "lat": -23.09694934,
+    "long": -47.21856974
+  },
+  {
+    "id": 1135557,
+    "nome": "Rua Antônio Ulistka, 121-153",
+    "lat": -23.09789563,
+    "long": -47.21933036
+  },
+  {
+    "id": 1135558,
+    "nome": "Rua Antônio Ulistka, 307",
+    "lat": -23.09862295,
+    "long": -47.22061052
+  },
+  {
+    "id": 1135559,
+    "nome": "Rua Mario Magnusson, 105",
+    "lat": -23.10010211,
+    "long": -47.22083687
+  },
+  {
+    "id": 1135560,
+    "nome": "Rua Albina Brizola Ulistka, 636",
+    "lat": -23.10123946,
+    "long": -47.22043991
+  },
+  {
+    "id": 1135561,
+    "nome": "Rua Albina Brizola Ulistka, 860",
+    "lat": -23.10295579,
+    "long": -47.22136386
+  },
+  {
+    "id": 1135562,
+    "nome": "Rua Tabajara Valeriano Carvalho, 28-64",
+    "lat": -23.10297384,
+    "long": -47.22179711
+  },
+  {
+    "id": 1135563,
+    "nome": "Rua Professor Osvaldo Antônio Tuon, 531-597",
+    "lat": -23.1033,
+    "long": -47.2243
+  },
+  {
+    "id": 1135565,
+    "nome": "Rua Professor Osvaldo Antônio Tuon, 101-161",
+    "lat": -23.1069096,
+    "long": -47.22644253
+  },
+  {
+    "id": 1135566,
+    "nome": "Rua Soldado João Carlos de Oliveira Júnior, 2032-2514",
+    "lat": -23.10886297,
+    "long": -47.22605743
+  },
+  {
+    "id": 1135567,
+    "nome": "Rua José Carlos Wolf, 1535-1569",
+    "lat": -23.11110493,
+    "long": -47.22830192
+  },
+  {
+    "id": 1135568,
+    "nome": "Rua Professor Doutor Masaharu Taniguchi, 102",
+    "lat": -23.12871721,
+    "long": -47.23531483
+  },
+  {
+    "id": 1135569,
+    "nome": "Rua Professor Doutor Masaharu Taniguchi, 290",
+    "lat": -23.1283,
+    "long": -47.237
+  },
+  {
+    "id": 1135570,
+    "nome": "Rua Professor Doutor Masaharu Taniguchi, 518",
+    "lat": -23.12771637,
+    "long": -47.23911247
+  },
+  {
+    "id": 1135571,
+    "nome": "Rua Professor Doutor Masaharu Taniguchi, 732",
+    "lat": -23.1272,
+    "long": -47.2412
+  },
+  {
+    "id": 1135572,
+    "nome": "Rua João Martini, 584",
+    "lat": -23.12629453,
+    "long": -47.2438643
+  },
+  {
+    "id": 1135573,
+    "nome": "Rua João Martini, 819",
+    "lat": -23.12467133,
+    "long": -47.24337924
+  },
+  {
+    "id": 1135574,
+    "nome": "Rua João Martini, 921-995",
+    "lat": -23.1226,
+    "long": -47.2428
+  },
+  {
+    "id": 1135575,
+    "nome": "Rua João Martini, 1125-1187",
+    "lat": -23.12117567,
+    "long": -47.24232428
+  },
+  {
+    "id": 1135576,
+    "nome": "Rua Emílio Agostine, 16",
+    "lat": -23.131714,
+    "long": -47.24211834
+  },
+  {
+    "id": 1135577,
+    "nome": "Rua Serafim Gilberto Candello, 442",
+    "lat": -23.12989507,
+    "long": -47.24135364
+  },
+  {
+    "id": 1135578,
+    "nome": "Rua Serafim Gilberto Candello, 790",
+    "lat": -23.12656853,
+    "long": -47.24034902
+  },
+  {
+    "id": 1135579,
+    "nome": "Rua Serafim Gilberto Candello, 636-706",
+    "lat": -23.12771973,
+    "long": -47.24071417
+  },
+  {
+    "id": 1135581,
+    "nome": "Rua José Estanislau Ambiel, 1605",
+    "lat": -23.1201441,
+    "long": -47.23659253
+  },
+  {
+    "id": 1135582,
+    "nome": "Rua José Estanislau Ambiel, 1447",
+    "lat": -23.1219,
+    "long": -47.2371
+  },
+  {
+    "id": 1135583,
+    "nome": "Rua José Estanislau Ambiel, 1212-1240",
+    "lat": -23.12345808,
+    "long": -47.23758507
+  },
+  {
+    "id": 1135584,
+    "nome": "Rua José Estanislau Ambiel, 1006-1066",
+    "lat": -23.12538779,
+    "long": -47.23816838
+  },
+  {
+    "id": 1135585,
+    "nome": "Rua Silvio Candello, 773-791",
+    "lat": -23.1262,
+    "long": -47.242
+  },
+  {
+    "id": 1135586,
+    "nome": "Rua Silvio Candello, 559-587",
+    "lat": -23.1279,
+    "long": -47.2425
+  },
+  {
+    "id": 1135587,
+    "nome": "Rua Silvio Candello, 293",
+    "lat": -23.12991648,
+    "long": -47.24318849
+  },
+  {
+    "id": 1135588,
+    "nome": "Rua Silvio Candello, 161",
+    "lat": -23.13120543,
+    "long": -47.24351366
+  },
+  {
+    "id": 1135589,
+    "nome": "Rua Doutor Renato Riggio, 698",
+    "lat": -23.12256057,
+    "long": -47.2299558
+  },
+  {
+    "id": 1135590,
+    "nome": "Rua Doutor Renato Riggio, 1094",
+    "lat": -23.11913074,
+    "long": -47.22891591
+  },
+  {
+    "id": 1135591,
+    "nome": "Rua Engenheiro Francisco Marcos I. de Souza, 279",
+    "lat": -23.116,
+    "long": -47.2257
+  },
+  {
+    "id": 1135592,
+    "nome": "Rua Reverendo Ataíde Costa, 257-319",
+    "lat": -23.11554066,
+    "long": -47.22417891
+  },
+  {
+    "id": 1135593,
+    "nome": "Rua Reverendo Ataíde Costa, 65-127",
+    "lat": -23.11392153,
+    "long": -47.223573
+  },
+  {
+    "id": 1135595,
+    "nome": "Rua Luiz Cupini, 212",
+    "lat": -23.11499559,
+    "long": -47.22450328
+  },
+  {
+    "id": 1135596,
+    "nome": "Rua Engenheiro Francisco Marcos I. de Souza, 277",
+    "lat": -23.116,
+    "long": -47.2256
+  },
+  {
+    "id": 1135597,
+    "nome": "Rua Doutor Renato Riggio, 1464-1528",
+    "lat": -23.1157419,
+    "long": -47.22788914
+  },
+  {
+    "id": 1135598,
+    "nome": "Rua Doutor Renato Riggio, 1278-1336",
+    "lat": -23.11725506,
+    "long": -47.22835518
+  },
+  {
+    "id": 1135599,
+    "nome": "Rua Doutor Renato Riggio, 908",
+    "lat": -23.12072038,
+    "long": -47.2294031
+  },
+  {
+    "id": 1135600,
+    "nome": "Rua Zephiro Puccinelli, 193",
+    "lat": -23.1244,
+    "long": -47.236
+  },
+  {
+    "id": 1135601,
+    "nome": "Rua Zephiro Puccinelli, 703-765",
+    "lat": -23.1223,
+    "long": -47.2354
+  },
+  {
+    "id": 1135602,
+    "nome": "Rua Zephiro Puccinelli, 447-509",
+    "lat": -23.1201,
+    "long": -47.2347
+  },
+  {
+    "id": 1135603,
+    "nome": "Rua Hélio Pistoni, 63-125 - Mini Hospital",
+    "lat": -23.1191802,
+    "long": -47.23513206
+  },
+  {
+    "id": 1135604,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 5965-5973",
+    "lat": -23.1230236,
+    "long": -47.23263018
+  },
+  {
+    "id": 1135605,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 5625-5681",
+    "lat": -23.1203,
+    "long": -47.2322
+  },
+  {
+    "id": 1135606,
+    "nome": "Rua Onório Novachi, 721-777",
+    "lat": -23.10936348,
+    "long": -47.23378658
+  },
+  {
+    "id": 1135607,
+    "nome": "Rua Onório Novachi, 71-117",
+    "lat": -23.108,
+    "long": -47.2333
+  },
+  {
+    "id": 1135608,
+    "nome": "Rua Tabajara Valeriano Carvalho, 406",
+    "lat": -23.10152845,
+    "long": -47.22487586
+  },
+  {
+    "id": 1135609,
+    "nome": "Rua Miguel Domingues, 389",
+    "lat": -23.10008324,
+    "long": -47.22409867
+  },
+  {
+    "id": 1135610,
+    "nome": "Rua Antônio Ulistka, 113-175",
+    "lat": -23.1005641,
+    "long": -47.22206779
+  },
+  {
+    "id": 1135611,
+    "nome": "Rua Marcelo Baroni Bernardinetti, 115",
+    "lat": -23.09744249,
+    "long": -47.22070009
+  },
+  {
+    "id": 1135612,
+    "nome": "Rua Mario Poli, 138",
+    "lat": -23.09780902,
+    "long": -47.22159195
+  },
+  {
+    "id": 1135613,
+    "nome": "Rua José Bernardinetti, 222",
+    "lat": -23.10007664,
+    "long": -47.22216781
+  },
+  {
+    "id": 1135614,
+    "nome": "Rua José Bernardinetti, 510",
+    "lat": -23.09911612,
+    "long": -47.22475708
+  },
+  {
+    "id": 1135615,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 26",
+    "lat": -23.07732175,
+    "long": -47.2133695
+  },
+  {
+    "id": 1135616,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 559-613",
+    "lat": -23.07824093,
+    "long": -47.2191633
+  },
+  {
+    "id": 1135617,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 165-357",
+    "lat": -23.07901049,
+    "long": -47.22144453
+  },
+  {
+    "id": 1135618,
+    "nome": "Rua João Amstalden, 148-300",
+    "lat": -23.07934398,
+    "long": -47.22463629
+  },
+  {
+    "id": 1135619,
+    "nome": "Alameda José Amstalden, 232",
+    "lat": -23.07657254,
+    "long": -47.22563959
+  },
+  {
+    "id": 1135620,
+    "nome": "Alameda José Amstalden, 602-632",
+    "lat": -23.0737,
+    "long": -47.22604636
+  },
+  {
+    "id": 1135621,
+    "nome": "Alameda José Amstalden, 1098-1250",
+    "lat": -23.07122075,
+    "long": -47.22732921
+  },
+  {
+    "id": 1135622,
+    "nome": "Rua Lisboa, 2-56",
+    "lat": -23.07039432,
+    "long": -47.22918391
+  },
+  {
+    "id": 1135623,
+    "nome": "Rua Bruxelas, 182-256",
+    "lat": -23.07185026,
+    "long": -47.23087907
+  },
+  {
+    "id": 1135624,
+    "nome": "Rua Nápoles, 62-122",
+    "lat": -23.070915,
+    "long": -47.23236501
+  },
+  {
+    "id": 1135625,
+    "nome": "Rua Therezinha Sarain Escodro, 283-433",
+    "lat": -23.07056495,
+    "long": -47.23350546
+  },
+  {
+    "id": 1135626,
+    "nome": "Rua Vicenzo Di Pietro Lui, 134",
+    "lat": -23.06783036,
+    "long": -47.2351867
+  },
+  {
+    "id": 1135627,
+    "nome": "Rua Jorge Alves Brown, 65",
+    "lat": -23.06701655,
+    "long": -47.23562897
+  },
+  {
+    "id": 1135628,
+    "nome": "Rua Luiz Cremasco, 38-224",
+    "lat": -23.064,
+    "long": -47.2346
+  },
+  {
+    "id": 1135629,
+    "nome": "Rua Miguel Oliva, 1-259",
+    "lat": -23.0628,
+    "long": -47.234
+  },
+  {
+    "id": 1135630,
+    "nome": "Rua Titi Tomazi, 262-346",
+    "lat": -23.0614,
+    "long": -47.23426589
+  },
+  {
+    "id": 1135631,
+    "nome": "Rua Guerino Lui, 128-216",
+    "lat": -23.06008389,
+    "long": -47.23471999
+  },
+  {
+    "id": 1135632,
+    "nome": "Rua Ariovaldo Pinto, 344-444",
+    "lat": -23.0588,
+    "long": -47.2341
+  },
+  {
+    "id": 1135633,
+    "nome": "Rua Ariovaldo Pinto, 446-572",
+    "lat": -23.05730996,
+    "long": -47.23320186
+  },
+  {
+    "id": 1135634,
+    "nome": "Rua Ariovaldo Pinto, 692",
+    "lat": -23.0566,
+    "long": -47.2323
+  },
+  {
+    "id": 1135635,
+    "nome": "Rua Betty Hass de Campos, 211-219",
+    "lat": -23.05642801,
+    "long": -47.22993052
+  },
+  {
+    "id": 1135636,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 3200",
+    "lat": -23.05791251,
+    "long": -47.22650377
+  },
+  {
+    "id": 1135637,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 99",
+    "lat": -23.06040812,
+    "long": -47.2224273
+  },
+  {
+    "id": 1135638,
+    "nome": "Rua Ricieri Delbone, 330",
+    "lat": -23.06232469,
+    "long": -47.2203029
+  },
+  {
+    "id": 1135639,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 100",
+    "lat": -23.06029395,
+    "long": -47.22238329
+  },
+  {
+    "id": 1135640,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 70",
+    "lat": -23.05834405,
+    "long": -47.22357288
+  },
+  {
+    "id": 1135641,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 3350",
+    "lat": -23.05711234,
+    "long": -47.2289
+  },
+  {
+    "id": 1135642,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 3700",
+    "lat": -23.05206894,
+    "long": -47.23330927
+  },
+  {
+    "id": 1135643,
+    "nome": "Rua Octacilio Groff",
+    "lat": -23.0494413,
+    "long": -47.23664554
+  },
+  {
+    "id": 1135644,
+    "nome": "Rua Senador Romeu Tuma, 28",
+    "lat": -23.05072964,
+    "long": -47.23834827
+  },
+  {
+    "id": 1135645,
+    "nome": "Rua Ghandi",
+    "lat": -23.05116712,
+    "long": -47.23988325
+  },
+  {
+    "id": 1135646,
+    "nome": "Rua Chico Mendes, 62",
+    "lat": -23.05153947,
+    "long": -47.24098001
+  },
+  {
+    "id": 1135647,
+    "nome": "Rua Ayrton Senna da Silva, 114",
+    "lat": -23.05166566,
+    "long": -47.23861724
+  },
+  {
+    "id": 1135648,
+    "nome": "Rua Ayrton Senna da Silva, 13",
+    "lat": -23.05216589,
+    "long": -47.24115153
+  },
+  {
+    "id": 1135649,
+    "nome": "Rua Ayrton Senna da Silva, 113",
+    "lat": -23.05175205,
+    "long": -47.23853946
+  },
+  {
+    "id": 1135650,
+    "nome": "Rua Octacilio Groff",
+    "lat": -23.04944289,
+    "long": -47.23649902
+  },
+  {
+    "id": 1135651,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 5420",
+    "lat": -23.05190017,
+    "long": -47.23354549
+  },
+  {
+    "id": 1135652,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 3701",
+    "lat": -23.05417922,
+    "long": -47.23163469
+  },
+  {
+    "id": 1135653,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 3360",
+    "lat": -23.05651234,
+    "long": -47.22971551
+  },
+  {
+    "id": 1135654,
+    "nome": "Rua Ariovaldo Pinto, 691-721",
+    "lat": -23.05650541,
+    "long": -47.232247
+  },
+  {
+    "id": 1135655,
+    "nome": "Rua Ariovaldo Pinto, 574-690",
+    "lat": -23.05714707,
+    "long": -47.23315895
+  },
+  {
+    "id": 1135656,
+    "nome": "Rua Ariovaldo Pinto, 343-443",
+    "lat": -23.05885981,
+    "long": -47.23422646
+  },
+  {
+    "id": 1135657,
+    "nome": "Rua Guerino Lui, 128-216",
+    "lat": -23.06012338,
+    "long": -47.23482728
+  },
+  {
+    "id": 1135659,
+    "nome": "Rua Miguel Oliva, 1-259",
+    "lat": -23.06276892,
+    "long": -47.23411918
+  },
+  {
+    "id": 1135660,
+    "nome": "Rua Luiz Cremasco, 37-223",
+    "lat": -23.06389919,
+    "long": -47.23469317
+  },
+  {
+    "id": 1135661,
+    "nome": "Rua Jorge Alves Brown, 1-53",
+    "lat": -23.06710185,
+    "long": -47.23565779
+  },
+  {
+    "id": 1135662,
+    "nome": "Rua Vicenzo Di Pietro Lui, 1-195",
+    "lat": -23.06795868,
+    "long": -47.23523498
+  },
+  {
+    "id": 1135663,
+    "nome": "Rua Therezinha Sarain Escodro, 284-434",
+    "lat": -23.07046107,
+    "long": -47.23345258
+  },
+  {
+    "id": 1135664,
+    "nome": "Rua Nápoles, 61-121",
+    "lat": -23.07099314,
+    "long": -47.23227876
+  },
+  {
+    "id": 1135665,
+    "nome": "Rua Bruxelas, 181-255",
+    "lat": -23.07193584,
+    "long": -47.23090152
+  },
+  {
+    "id": 1135666,
+    "nome": "Rua Lisboa, 55",
+    "lat": -23.0705161,
+    "long": -47.22924099
+  },
+  {
+    "id": 1135667,
+    "nome": "Rua Madri, 199",
+    "lat": -23.07150894,
+    "long": -47.22791877
+  },
+  {
+    "id": 1135669,
+    "nome": "Alameda José Amstalden, 252",
+    "lat": -23.07694463,
+    "long": -47.22584025
+  },
+  {
+    "id": 1135670,
+    "nome": "Rua João Amstalden, 395-527",
+    "lat": -23.07966267,
+    "long": -47.22453833
+  },
+  {
+    "id": 1135671,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 1021-1065",
+    "lat": -23.0802,
+    "long": -47.2226
+  },
+  {
+    "id": 1135672,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 829",
+    "lat": -23.0796,
+    "long": -47.2201
+  },
+  {
+    "id": 1135673,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 415-485",
+    "lat": -23.078,
+    "long": -47.2169
+  },
+  {
+    "id": 1135674,
+    "nome": "Rua Armando Salles de Oliveira, 97-149",
+    "lat": -23.07864605,
+    "long": -47.21637368
+  },
+  {
+    "id": 1135675,
+    "nome": "Rua São Luiz, 422-458",
+    "lat": -23.0818,
+    "long": -47.2168
+  },
+  {
+    "id": 1135676,
+    "nome": "Rua Dom José, 91",
+    "lat": -23.0894,
+    "long": -47.2237
+  },
+  {
+    "id": 1135677,
+    "nome": "Rua Dom José, 218-246",
+    "lat": -23.09044533,
+    "long": -47.22162277
+  },
+  {
+    "id": 1135678,
+    "nome": "Rua Cinco de Julho, 591",
+    "lat": -23.08996914,
+    "long": -47.2201395
+  },
+  {
+    "id": 1135679,
+    "nome": "Rua Cinco de Julho, 978",
+    "lat": -23.08709917,
+    "long": -47.21851595
+  },
+  {
+    "id": 1135680,
+    "nome": "Rua Cerqueira César, 834-864",
+    "lat": -23.08771894,
+    "long": -47.21608487
+  },
+  {
+    "id": 1135681,
+    "nome": "Rua Treze de Maio, 1172",
+    "lat": -23.0828,
+    "long": -47.21
+  },
+  {
+    "id": 1135682,
+    "nome": "Rua Treze de Maio, 1386",
+    "lat": -23.081,
+    "long": -47.209
+  },
+  {
+    "id": 1135683,
+    "nome": "Rua Treze de Maio, 1592-1594",
+    "lat": -23.07936657,
+    "long": -47.20812857
+  },
+  {
+    "id": 1135684,
+    "nome": "Rua Pedro Gonçalves, 755-799",
+    "lat": -23.08907102,
+    "long": -47.21856236
+  },
+  {
+    "id": 1135685,
+    "nome": "Rua Pedro Gonçalves, 477-515",
+    "lat": -23.09099308,
+    "long": -47.2195816
+  },
+  {
+    "id": 1135686,
+    "nome": "Rua Pedro Gonçalves, 193-199",
+    "lat": -23.09339869,
+    "long": -47.22085029
+  },
+  {
+    "id": 1135687,
+    "nome": "Rua Pedro Gonçalves, 1-29",
+    "lat": -23.09491112,
+    "long": -47.22164154
+  },
+  {
+    "id": 1135691,
+    "nome": "Rua Álvaro L Luz, 129-191",
+    "lat": -23.10000836,
+    "long": -47.233513
+  },
+  {
+    "id": 1135692,
+    "nome": "Rua Eliza Ghirotti, 775-819",
+    "lat": -23.09936936,
+    "long": -47.23650366
+  },
+  {
+    "id": 1135693,
+    "nome": "Rua Guarino Vanucci, 118",
+    "lat": -23.10251496,
+    "long": -47.23664582
+  },
+  {
+    "id": 1135694,
+    "nome": "Rua Nabor Píres de Camargo, 697-739",
+    "lat": -23.104345,
+    "long": -47.23701829
+  },
+  {
+    "id": 1135695,
+    "nome": "Rua Nabor Píres de Camargo, 563",
+    "lat": -23.10473781,
+    "long": -47.23530471
+  },
+  {
+    "id": 1135696,
+    "nome": "Rua Nabor Píres de Camargo, 433-475",
+    "lat": -23.10521642,
+    "long": -47.23438203
+  },
+  {
+    "id": 1135697,
+    "nome": "Avenida dos Artífices, 373",
+    "lat": -23.1088669,
+    "long": -47.23861754
+  },
+  {
+    "id": 1135699,
+    "nome": "Rua Antônio Barnabé, 799-1178",
+    "lat": -23.13391017,
+    "long": -47.23040968
+  },
+  {
+    "id": 1135700,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 2869",
+    "lat": -23.09629393,
+    "long": -47.22518689
+  },
+  {
+    "id": 1135701,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 599",
+    "lat": -23.12907131,
+    "long": -47.22368981
+  },
+  {
+    "id": 1135702,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 660-730",
+    "lat": -23.1314,
+    "long": -47.2222
+  },
+  {
+    "id": 1135703,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 1000-1090",
+    "lat": -23.1336,
+    "long": -47.2207
+  },
+  {
+    "id": 1135705,
+    "nome": "Rua Antônia Martins Luiz, 795-893",
+    "lat": -23.1359,
+    "long": -47.222
+  },
+  {
+    "id": 1135706,
+    "nome": "Rua Antônia Martins Luiz, 822",
+    "lat": -23.1356,
+    "long": -47.2223
+  },
+  {
+    "id": 1135707,
+    "nome": "Rua Leni Benedita de Maria Madureira, 93-245",
+    "lat": -23.13538295,
+    "long": -47.2202835
+  },
+  {
+    "id": 1135708,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 1460",
+    "lat": -23.1368,
+    "long": -47.2184
+  },
+  {
+    "id": 1135709,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 1601",
+    "lat": -23.14285009,
+    "long": -47.21780351
+  },
+  {
+    "id": 1135710,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 845",
+    "lat": -23.13463286,
+    "long": -47.21962452
+  },
+  {
+    "id": 1135711,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 631",
+    "lat": -23.1307,
+    "long": -47.2225
+  },
+  {
+    "id": 1135712,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 273",
+    "lat": -23.12777577,
+    "long": -47.22465634
+  },
+  {
+    "id": 1135713,
+    "nome": "Alameda Citros, 497",
+    "lat": -23.15167534,
+    "long": -47.18352875
+  },
+  {
+    "id": 1135714,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 3000",
+    "lat": -23.16615068,
+    "long": -47.193
+  },
+  {
+    "id": 1135715,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 4000",
+    "lat": -23.16732109,
+    "long": -47.18716781
+  },
+  {
+    "id": 1135716,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 5001",
+    "lat": -23.17065205,
+    "long": -47.17716781
+  },
+  {
+    "id": 1135717,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 5500",
+    "lat": -23.17190273,
+    "long": -47.17335708
+  },
+  {
+    "id": 1135718,
+    "nome": "Estrada Municipal Grama Videira, 500",
+    "lat": -23.16859864,
+    "long": -47.17054636
+  },
+  {
+    "id": 1135719,
+    "nome": "Rua Salto, 3700",
+    "lat": -23.16335068,
+    "long": -47.16811417
+  },
+  {
+    "id": 1135720,
+    "nome": "Rua Salto, 3500",
+    "lat": -23.16175068,
+    "long": -47.16924636
+  },
+  {
+    "id": 1135721,
+    "nome": "Rua Salto, 3400",
+    "lat": -23.16003095,
+    "long": -47.1709249
+  },
+  {
+    "id": 1135722,
+    "nome": "Rua Salto, 3300",
+    "lat": -23.15850136,
+    "long": -47.17283563
+  },
+  {
+    "id": 1135723,
+    "nome": "Rua Salto, 3200",
+    "lat": -23.1564,
+    "long": -47.1715
+  },
+  {
+    "id": 1135724,
+    "nome": "Rua Salto, 3101",
+    "lat": -23.1576,
+    "long": -47.1695
+  },
+  {
+    "id": 1135725,
+    "nome": "Rua Salto, 3000",
+    "lat": -23.1583,
+    "long": -47.1672
+  },
+  {
+    "id": 1135726,
+    "nome": "Rua Salto, 2400",
+    "lat": -23.1607,
+    "long": -47.1658
+  },
+  {
+    "id": 1135727,
+    "nome": "Estrada Municipal Grama Videira, 600",
+    "lat": -23.16632109,
+    "long": -47.16891417
+  },
+  {
+    "id": 1135728,
+    "nome": "Alameda Comendador Doutor Santoro Mirone,6000",
+    "lat": -23.1792,
+    "long": -47.1698
+  },
+  {
+    "id": 1135729,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 6500",
+    "lat": -23.18125069,
+    "long": -47.16816245
+  },
+  {
+    "id": 1135730,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 7000",
+    "lat": -23.18353234,
+    "long": -47.16506781
+  },
+  {
+    "id": 1135731,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 8000",
+    "lat": -23.18700276,
+    "long": -47.15784636
+  },
+  {
+    "id": 1135732,
+    "nome": "IVA-343",
+    "lat": -23.19145917,
+    "long": -47.15945172
+  },
+  {
+    "id": 1135734,
+    "nome": "Alameda Niassa, 618",
+    "lat": -23.14639763,
+    "long": -47.18480945
+  },
+  {
+    "id": 1135735,
+    "nome": "Alameda Niassa, 766-950",
+    "lat": -23.14858768,
+    "long": -47.18311429
+  },
+  {
+    "id": 1135736,
+    "nome": "Alameda Niassa, 766-950",
+    "lat": -23.14834106,
+    "long": -47.18304992
+  },
+  {
+    "id": 1135737,
+    "nome": "Alameda Niassa, 567-613",
+    "lat": -23.14625951,
+    "long": -47.18466997
+  },
+  {
+    "id": 1135751,
+    "nome": "Estrada Indaiatuba Cabreuva, 5960",
+    "lat": -23.19833277,
+    "long": -47.16552436
+  },
+  {
+    "id": 1135762,
+    "nome": "Rua Salto, 2410",
+    "lat": -23.16236905,
+    "long": -47.16505364
+  },
+  {
+    "id": 1135763,
+    "nome": "Estrada Municipal José Boldrini, 15000",
+    "lat": -23.16596412,
+    "long": -47.13158035
+  },
+  {
+    "id": 1135764,
+    "nome": "Estrada Municipal José Boldrini, 16001",
+    "lat": -23.1683,
+    "long": -47.1242
+  },
+  {
+    "id": 1135765,
+    "nome": "Estrada Municipal José Boldrini, 16501",
+    "lat": -23.1697,
+    "long": -47.1218
+  },
+  {
+    "id": 1135766,
+    "nome": "Estrada Municipal José Boldrini, 15001",
+    "lat": -23.16611168,
+    "long": -47.13155104
+  },
+  {
+    "id": 1135767,
+    "nome": "Estrada Municipal José Boldrini, 14001",
+    "lat": -23.16491343,
+    "long": -47.1401
+  },
+  {
+    "id": 1135768,
+    "nome": "Estrada Municipal do Sapezal, 554-616",
+    "lat": -23.06083802,
+    "long": -47.1732732
+  },
+  {
+    "id": 1135769,
+    "nome": "Estrada Municipal do Sapezal, 904",
+    "lat": -23.06264663,
+    "long": -47.17172543
+  },
+  {
+    "id": 1135770,
+    "nome": "Avenida Windsor Park, 1-259",
+    "lat": -23.06439275,
+    "long": -47.16764331
+  },
+  {
+    "id": 1135771,
+    "nome": "Rua Arthur Sassi, 67-129",
+    "lat": -23.06327644,
+    "long": -47.17229542
+  },
+  {
+    "id": 1135772,
+    "nome": "Rua Roberto Gubel, 117-205",
+    "lat": -23.06244608,
+    "long": -47.17345763
+  },
+  {
+    "id": 1135773,
+    "nome": "Avenida Ângelo Bertelli Netto, 133-195",
+    "lat": -23.06176098,
+    "long": -47.1745803
+  },
+  {
+    "id": 1135774,
+    "nome": "Avenida Ângelo Bertelli Netto, 609-675",
+    "lat": -23.06537204,
+    "long": -47.1772835
+  },
+  {
+    "id": 1135775,
+    "nome": "Avenida Ângelo Bertelli Netto, 755-825",
+    "lat": -23.06695355,
+    "long": -47.17793841
+  },
+  {
+    "id": 1135776,
+    "nome": "Avenida Ângelo Bertelli Netto, 610-676",
+    "lat": -23.06547278,
+    "long": -47.177261
+  },
+  {
+    "id": 1135777,
+    "nome": "Avenida Ângelo Bertelli Netto, 230-406",
+    "lat": -23.06348507,
+    "long": -47.1760087
+  },
+  {
+    "id": 1135778,
+    "nome": "Avenida Ângelo Bertelli Netto, 172",
+    "lat": -23.06186609,
+    "long": -47.17457884
+  },
+  {
+    "id": 1135779,
+    "nome": "Avenida Ângelo Bertelli Netto, 40",
+    "lat": -23.06092468,
+    "long": -47.17376513
+  },
+  {
+    "id": 1135781,
+    "nome": "Estrada Municipal do Sapezal, 78-212",
+    "lat": -23.05752011,
+    "long": -47.17633688
+  },
+  {
+    "id": 1135782,
+    "nome": "Estrada Municipal do Sapezal, 161",
+    "lat": -23.05744561,
+    "long": -47.1762678
+  },
+  {
+    "id": 1135783,
+    "nome": "Avenida Visconde de Indaiatuba, 760",
+    "lat": -23.0907,
+    "long": -47.1983
+  },
+  {
+    "id": 1135784,
+    "nome": "Avenida Visconde de Indaiatuba, 1112-1180",
+    "lat": -23.0924,
+    "long": -47.1949
+  },
+  {
+    "id": 1135785,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 200-280",
+    "lat": -23.0962607,
+    "long": -47.18693644
+  },
+  {
+    "id": 1135786,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 25-127",
+    "lat": -23.09614476,
+    "long": -47.18687863
+  },
+  {
+    "id": 1135787,
+    "nome": "Avenida Visconde de Indaiatuba, 1123",
+    "lat": -23.0920935,
+    "long": -47.19495893
+  },
+  {
+    "id": 1135788,
+    "nome": "Avenida Visconde de Indaiatuba, 727",
+    "lat": -23.0904,
+    "long": -47.1984
+  },
+  {
+    "id": 1135789,
+    "nome": "Rua Reverendo Willybaldo Peralta Alves, 39-59",
+    "lat": -23.10416723,
+    "long": -47.20903801
+  },
+  {
+    "id": 1135795,
+    "nome": "Rua Professora Maria Cecília Ifanger, 444",
+    "lat": -23.10650175,
+    "long": -47.2117871
+  },
+  {
+    "id": 1135796,
+    "nome": "Rua Soldado João Carlos de Oliveira Júnior, 1529-1857",
+    "lat": -23.10792338,
+    "long": -47.22501983
+  },
+  {
+    "id": 1135797,
+    "nome": "Avenida Ângelo Bertelli Netto, 756-826",
+    "lat": -23.06695443,
+    "long": -47.17787178
+  },
+  {
+    "id": 1135798,
+    "nome": "Rodovia Mário Tonoli, 553",
+    "lat": -23.17104267,
+    "long": -47.11929637
+  },
+  {
+    "id": 1135799,
+    "nome": "Rua Treze de Maio, 430-494 - Praça Rui Barbosa",
+    "lat": -23.08826913,
+    "long": -47.21295118
+  },
+  {
+    "id": 1135801,
+    "nome": "Rua Doutor Renato Riggio, 1822",
+    "lat": -23.11300627,
+    "long": -47.22706167
+  },
+  {
+    "id": 1135803,
+    "nome": "Avenida Presidente Vargas, 1723-1733",
+    "lat": -23.08516021,
+    "long": -47.19543099
+  },
+  {
+    "id": 1135805,
+    "nome": "Marginal Norte - Industrialle",
+    "lat": -23.08491736,
+    "long": -47.1764394
+  },
+  {
+    "id": 1135806,
+    "nome": "Rua Antônio Farinello, 575-709",
+    "lat": -23.08552364,
+    "long": -47.1847068
+  },
+  {
+    "id": 1135807,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 93-99",
+    "lat": -23.12673555,
+    "long": -47.22543524
+  },
+  {
+    "id": 1135808,
+    "nome": "Rua Augusta Steffen, 1-139",
+    "lat": -23.05557745,
+    "long": -47.20781207
+  },
+  {
+    "id": 1135809,
+    "nome": "Rua Antônio Barnabé, 541-587",
+    "lat": -23.12962573,
+    "long": -47.22728491
+  },
+  {
+    "id": 1135815,
+    "nome": "Rua Elza Vieira de Abreu, 509",
+    "lat": -23.09875997,
+    "long": -47.24204107
+  },
+  {
+    "id": 1135817,
+    "nome": "Rua Raul Narezzi, 268-398",
+    "lat": -23.13972859,
+    "long": -47.22970963
+  },
+  {
+    "id": 1135818,
+    "nome": "Rua Antônio Barnabé, 144-148",
+    "lat": -23.1261379,
+    "long": -47.22628713
+  },
+  {
+    "id": 1135819,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 160",
+    "lat": -23.12720161,
+    "long": -47.22534516
+  },
+  {
+    "id": 1135820,
+    "nome": "Rua Humaitá, 1094",
+    "lat": -23.08548344,
+    "long": -47.210733
+  },
+  {
+    "id": 1135821,
+    "nome": "Rua Francisco de Paula Cabral Vasconcelos Padre, 720-784",
+    "lat": -23.12014869,
+    "long": -47.22757995
+  },
+  {
+    "id": 1135822,
+    "nome": "Rua Francisco de Paula Cabral Vasconcelos Padre, 142-206",
+    "lat": -23.12518829,
+    "long": -47.2291164
+  },
+  {
+    "id": 1135823,
+    "nome": "Rua João Perón, 48-76",
+    "lat": -23.12743537,
+    "long": -47.23106682
+  },
+  {
+    "id": 1135824,
+    "nome": "Rua Serafim Gilberto Candello, 2086-2152",
+    "lat": -23.11523727,
+    "long": -47.23692165
+  },
+  {
+    "id": 1135825,
+    "nome": "Rua Salvador Castilho, 341",
+    "lat": -23.1007337,
+    "long": -47.20526934
+  },
+  {
+    "id": 1135827,
+    "nome": "Rua Miguel Domingues, 636-998",
+    "lat": -23.09831498,
+    "long": -47.22914614
+  },
+  {
+    "id": 1135828,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 1622-1678",
+    "lat": -23.08244684,
+    "long": -47.22560048
+  },
+  {
+    "id": 1135829,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 2322",
+    "lat": -23.08833493,
+    "long": -47.22545564
+  },
+  {
+    "id": 1135830,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 4076-4126",
+    "lat": -23.10314662,
+    "long": -47.22975267
+  },
+  {
+    "id": 1135831,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 1982-2056",
+    "lat": -23.10916633,
+    "long": -47.18011405
+  },
+  {
+    "id": 1135832,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 1981-2055",
+    "lat": -23.10932908,
+    "long": -47.17979741
+  },
+  {
+    "id": 1135833,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 2457-2997",
+    "lat": -23.12038788,
+    "long": -47.1800201
+  },
+  {
+    "id": 1135834,
+    "nome": "Alameda Ezequiel Mantoanelli, 178",
+    "lat": -23.10120492,
+    "long": -47.17997879
+  },
+  {
+    "id": 1135835,
+    "nome": "Estrada Municipal José Boldrini, 6951",
+    "lat": -23.15658749,
+    "long": -47.14535849
+  },
+  {
+    "id": 1135836,
+    "nome": "Alameda José Boldrini, 4101",
+    "lat": -23.13647383,
+    "long": -47.16696568
+  },
+  {
+    "id": 1135837,
+    "nome": "Alameda José Boldrini, 4100",
+    "lat": -23.13596857,
+    "long": -47.16728426
+  },
+  {
+    "id": 1135838,
+    "nome": "Estrada Municipal José Boldrini, 2155",
+    "lat": -23.12704913,
+    "long": -47.18031265
+  },
+  {
+    "id": 1135839,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 4100",
+    "lat": -23.1265277,
+    "long": -47.18058023
+  },
+  {
+    "id": 1135840,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 3359-3413",
+    "lat": -23.10083247,
+    "long": -47.22604525
+  },
+  {
+    "id": 1135841,
+    "nome": "Alça Nilson Cardoso de Carvalho, 3801-3839",
+    "lat": -23.10452687,
+    "long": -47.22721651
+  },
+  {
+    "id": 1135842,
+    "nome": "Rua José Carlos Wolf, 1384",
+    "lat": -23.11316406,
+    "long": -47.22891751
+  },
+  {
+    "id": 1135843,
+    "nome": "Rua Soldado João Carlos de Oliveira Júnior, 1251-1445",
+    "lat": -23.10583804,
+    "long": -47.22318043
+  },
+  {
+    "id": 1135844,
+    "nome": "Rua dos Indaiás, 181",
+    "lat": -23.09609604,
+    "long": -47.21385686
+  },
+  {
+    "id": 1135845,
+    "nome": "Rua dos Indaiás, 1101-1111",
+    "lat": -23.10447856,
+    "long": -47.21152961
+  },
+  {
+    "id": 1135846,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 3154-3200 - FIEC",
+    "lat": -23.09656738,
+    "long": -47.22922461
+  },
+  {
+    "id": 1135847,
+    "nome": "Rua Vinte e Quatro de Maio, 709",
+    "lat": -23.08377803,
+    "long": -47.21696377
+  },
+  {
+    "id": 1135848,
+    "nome": "Rua Vinte e Quatro de Maio, 447",
+    "lat": -23.08270715,
+    "long": -47.21917927
+  },
+  {
+    "id": 1135849,
+    "nome": "Rua Vinte e Quatro de Maio, 92",
+    "lat": -23.08119705,
+    "long": -47.2222048
+  },
+  {
+    "id": 1135850,
+    "nome": "Avenida Manoel Ruz Peres, 268",
+    "lat": -23.1083666,
+    "long": -47.23160632
+  },
+  {
+    "id": 1135851,
+    "nome": "Avenida Manoel Ruz Peres, 2925",
+    "lat": -23.10634345,
+    "long": -47.234146
+  },
+  {
+    "id": 1135852,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 1575-1601",
+    "lat": -23.10690017,
+    "long": -47.18159254
+  },
+  {
+    "id": 1135853,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 1604",
+    "lat": -23.10698372,
+    "long": -47.18169466
+  },
+  {
+    "id": 1135854,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 1215",
+    "lat": -23.10375657,
+    "long": -47.18301164
+  },
+  {
+    "id": 1135855,
+    "nome": "Estrada Municipal José Boldrini, 5000",
+    "lat": -23.14240873,
+    "long": -47.15947705
+  },
+  {
+    "id": 1135856,
+    "nome": "Estrada Municipal José Boldrini, 5001",
+    "lat": -23.14255241,
+    "long": -47.15948402
+  },
+  {
+    "id": 1135857,
+    "nome": "Estrada Dois",
+    "lat": -23.15392415,
+    "long": -47.1425432
+  },
+  {
+    "id": 1135858,
+    "nome": "Rua João Martini, 346-398",
+    "lat": -23.12784894,
+    "long": -47.24438667
+  },
+  {
+    "id": 1135859,
+    "nome": "Rua Antônio Angelino Rossi, 864",
+    "lat": -23.12466241,
+    "long": -47.24179029
+  },
+  {
+    "id": 1135860,
+    "nome": "Avenida Lisboa, 733-1067",
+    "lat": -23.1271739,
+    "long": -47.18170881
+  },
+  {
+    "id": 1135861,
+    "nome": "Avenida Lisboa, 421-569",
+    "lat": -23.12910775,
+    "long": -47.18661726
+  },
+  {
+    "id": 1135862,
+    "nome": "Avenida Lisboa, 1-361",
+    "lat": -23.13015852,
+    "long": -47.1892029
+  },
+  {
+    "id": 1135863,
+    "nome": "Alameda Santarém, 346-362",
+    "lat": -23.13096756,
+    "long": -47.19115555
+  },
+  {
+    "id": 1135864,
+    "nome": "Alameda Santarém, 687-833",
+    "lat": -23.13428261,
+    "long": -47.19198704
+  },
+  {
+    "id": 1135865,
+    "nome": "Alameda Santarém, 186-548",
+    "lat": -23.13985684,
+    "long": -47.19133794
+  },
+  {
+    "id": 1135866,
+    "nome": "Alameda Santarém, 548-654",
+    "lat": -23.14384252,
+    "long": -47.19154716
+  },
+  {
+    "id": 1135867,
+    "nome": "Alameda Niassa, 1",
+    "lat": -23.1439905,
+    "long": -47.18745947
+  },
+  {
+    "id": 1135868,
+    "nome": "Alameda Ponta Delgada, 1122-1364",
+    "lat": -23.14323579,
+    "long": -47.18965352
+  },
+  {
+    "id": 1135869,
+    "nome": "Alameda Niassa, 151-465",
+    "lat": -23.14400036,
+    "long": -47.18725562
+  },
+  {
+    "id": 1135870,
+    "nome": "Alameda Braga, 1473-1581",
+    "lat": -23.14152413,
+    "long": -47.1857214
+  },
+  {
+    "id": 1135871,
+    "nome": "Alameda Braga, 1053-1269",
+    "lat": -23.13718321,
+    "long": -47.18546391
+  },
+  {
+    "id": 1135872,
+    "nome": "Alameda Braga, 715-813",
+    "lat": -23.13422342,
+    "long": -47.18512058
+  },
+  {
+    "id": 1135873,
+    "nome": "Avenida Lisboa, 740-1080",
+    "lat": -23.12768696,
+    "long": -47.18229353
+  },
+  {
+    "id": 1135874,
+    "nome": "Alameda dos Jacarandás, 92-168",
+    "lat": -23.11072525,
+    "long": -47.17761576
+  },
+  {
+    "id": 1135875,
+    "nome": "Alameda dos Jacarandás, 476-614",
+    "lat": -23.10883061,
+    "long": -47.17462778
+  },
+  {
+    "id": 1135876,
+    "nome": "Alameda das Peróbas, 2-146",
+    "lat": -23.10928453,
+    "long": -47.17332423
+  },
+  {
+    "id": 1135877,
+    "nome": "Alameda das Peróbas, 148-426",
+    "lat": -23.11204259,
+    "long": -47.17246056
+  },
+  {
+    "id": 1135878,
+    "nome": "Alameda das Peróbas, 606-878",
+    "lat": -23.11527424,
+    "long": -47.17097461
+  },
+  {
+    "id": 1135879,
+    "nome": "Alameda das Peróbas, 879-1125",
+    "lat": -23.11687769,
+    "long": -47.17043281
+  },
+  {
+    "id": 1135880,
+    "nome": "Alameda Salvadora Martins Prado, 2-328",
+    "lat": -23.12073332,
+    "long": -47.16950476
+  },
+  {
+    "id": 1135881,
+    "nome": "Alameda Salvadora Martins Prado, 352-464",
+    "lat": -23.12360214,
+    "long": -47.16779351
+  },
+  {
+    "id": 1135882,
+    "nome": "Alameda Salvadora Martins Prado, 696-812",
+    "lat": -23.12649804,
+    "long": -47.16547608
+  },
+  {
+    "id": 1135883,
+    "nome": "Alameda Salvadora Martins Prado, 1076-1154",
+    "lat": -23.12849109,
+    "long": -47.16284752
+  },
+  {
+    "id": 1135884,
+    "nome": "Alameda Salvadora Martins Prado, 1436-1518",
+    "lat": -23.13017332,
+    "long": -47.1602726
+  },
+  {
+    "id": 1135885,
+    "nome": "Rua Zênite Furakawa, 2067-2243",
+    "lat": -23.13135235,
+    "long": -47.15788007
+  },
+  {
+    "id": 1135886,
+    "nome": "Rua Zênite Furakawa, 1806-2066",
+    "lat": -23.12853549,
+    "long": -47.15651214
+  },
+  {
+    "id": 1135887,
+    "nome": "Rua Zênite Furakawa, 1433-1559",
+    "lat": -23.12615764,
+    "long": -47.15784788
+  },
+  {
+    "id": 1135888,
+    "nome": "Rua Zênite Furakawa, 1196-1364",
+    "lat": -23.12384881,
+    "long": -47.15941966
+  },
+  {
+    "id": 1135889,
+    "nome": "Rua Zenite Furakawa, 775",
+    "lat": -23.12196916,
+    "long": -47.16329277
+  },
+  {
+    "id": 1135890,
+    "nome": "Rua Zênite Furakawa, 231-361",
+    "lat": -23.11911264,
+    "long": -47.16669381
+  },
+  {
+    "id": 1135891,
+    "nome": "Rua Zênite Furakawa, 1-193",
+    "lat": -23.12044964,
+    "long": -47.16857135
+  },
+  {
+    "id": 1135892,
+    "nome": "Alameda das Peróbas, 879-1124",
+    "lat": -23.11849593,
+    "long": -47.17032552
+  },
+  {
+    "id": 1135893,
+    "nome": "Alameda das Peróbas, 606-879",
+    "lat": -23.11530877,
+    "long": -47.17079759
+  },
+  {
+    "id": 1135894,
+    "nome": "Alameda das Peróbas, 149-425",
+    "lat": -23.11210673,
+    "long": -47.17228889
+  },
+  {
+    "id": 1135895,
+    "nome": "Alameda das Peróbas, 1-145",
+    "lat": -23.10934868,
+    "long": -47.17319012
+  },
+  {
+    "id": 1135896,
+    "nome": "Alameda dos Jacarandás, 794-1138",
+    "lat": -23.10657576,
+    "long": -47.16946721
+  },
+  {
+    "id": 1135897,
+    "nome": "Alameda das Andorinhas, 386",
+    "lat": -23.10813492,
+    "long": -47.16677427
+  },
+  {
+    "id": 1135899,
+    "nome": "Alameda das Andorinhas, 729",
+    "lat": -23.10922532,
+    "long": -47.16309428
+  },
+  {
+    "id": 1135900,
+    "nome": "Alameda dos Flamingos, 1056-1142",
+    "lat": -23.10791782,
+    "long": -47.166785
+  },
+  {
+    "id": 1135901,
+    "nome": "Alameda dos Jacarandás, 794-1137",
+    "lat": -23.10638827,
+    "long": -47.1695745
+  },
+  {
+    "id": 1135902,
+    "nome": "Alameda dos Jacarandás, 476-613",
+    "lat": -23.1087418,
+    "long": -47.17471361
+  },
+  {
+    "id": 1135903,
+    "nome": "Alameda dos Jacarandás, 91-167",
+    "lat": -23.11068577,
+    "long": -47.17773915
+  },
+  {
+    "id": 1135904,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 3000-3142",
+    "lat": -23.12067586,
+    "long": -47.18013586
+  },
+  {
+    "id": 1135905,
+    "nome": "Rua Hermínio de Mello, 28",
+    "lat": -23.12820249,
+    "long": -47.22707838
+  },
+  {
+    "id": 1135906,
+    "nome": "Rua Hermínio de Mello, 426",
+    "lat": -23.13016839,
+    "long": -47.22957015
+  },
+  {
+    "id": 1135907,
+    "nome": "Rua Hermínio de Mello, 720-1082",
+    "lat": -23.13250177,
+    "long": -47.23243475
+  },
+  {
+    "id": 1135908,
+    "nome": "Rua Carolina Ferrarezzi Zoppi, 435",
+    "lat": -23.06912098,
+    "long": -47.2427237
+  },
+  {
+    "id": 1135909,
+    "nome": "Rodovia Cônego Cyríaco Scaranelo Pires, 10",
+    "lat": -23.02971559,
+    "long": -47.27110684
+  },
+  {
+    "id": 1135910,
+    "nome": "Estrada do Fogueteiro",
+    "lat": -23.02062648,
+    "long": -47.16881812
+  },
+  {
+    "id": 1135912,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 2131-2529",
+    "lat": -23.09237477,
+    "long": -47.22458124
+  },
+  {
+    "id": 1135913,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 2013-2073",
+    "lat": -23.0889748,
+    "long": -47.22384363
+  },
+  {
+    "id": 1135914,
+    "nome": "Alça Nilson Cardoso de Carvalho, 1633-1699",
+    "lat": -23.08540202,
+    "long": -47.22325087
+  },
+  {
+    "id": 1135915,
+    "nome": "Rua João Amstalden, 575-585",
+    "lat": -23.08147876,
+    "long": -47.22275734
+  },
+  {
+    "id": 1135916,
+    "nome": "Rua Onze de Junho, 108",
+    "lat": -23.08288307,
+    "long": -47.22168361
+  },
+  {
+    "id": 1135917,
+    "nome": "Rua Onze de Junho, 484",
+    "lat": -23.08447339,
+    "long": -47.2184552
+  },
+  {
+    "id": 1135918,
+    "nome": "Rua Onze de Junho, 846-952",
+    "lat": -23.08652335,
+    "long": -47.21430787
+  },
+  {
+    "id": 1135919,
+    "nome": "Rua Onze de Junho, 1156",
+    "lat": -23.08730932,
+    "long": -47.21260518
+  },
+  {
+    "id": 1135920,
+    "nome": "Rua Doutor Raul David do Valle, 1441",
+    "lat": -23.11668775,
+    "long": -47.24297315
+  },
+  {
+    "id": 1135921,
+    "nome": "Rua Doutor Raul David do Valle, 1301-1305",
+    "lat": -23.11838493,
+    "long": -47.24345058
+  },
+  {
+    "id": 1135922,
+    "nome": "Rua Doutor Raul David do Valle, 945",
+    "lat": -23.1212834,
+    "long": -47.2443223
+  },
+  {
+    "id": 1135923,
+    "nome": "Rua Martinho Lutero, 1188-1252",
+    "lat": -23.12583697,
+    "long": -47.24718154
+  },
+  {
+    "id": 1135924,
+    "nome": "Rua Martinho Lutero, 1420",
+    "lat": -23.12412508,
+    "long": -47.24698842
+  },
+  {
+    "id": 1135925,
+    "nome": "Rua João Narezzi, 1077-1101",
+    "lat": -23.12475163,
+    "long": -47.24379659
+  },
+  {
+    "id": 1135926,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 2972-3030 - Prefeitura",
+    "lat": -23.09353797,
+    "long": -47.22860566
+  },
+  {
+    "id": 1135927,
+    "nome": "Rua Basílio Martins, 844-946",
+    "lat": -23.10921053,
+    "long": -47.2133106
+  },
+  {
+    "id": 1135928,
+    "nome": "Rua Alzira Barnabé, 592-600",
+    "lat": -23.10887995,
+    "long": -47.21199632
+  },
+  {
+    "id": 1135929,
+    "nome": "Avenida Manoel Ruz Peres, 55-229",
+    "lat": -23.10581591,
+    "long": -47.24029899
+  },
+  {
+    "id": 1135930,
+    "nome": "Avenida Manoel Ruz Peres, 4370",
+    "lat": -23.10408157,
+    "long": -47.24838316
+  },
+  {
+    "id": 1135931,
+    "nome": "Avenida Manoel Ruz Peres, 130",
+    "lat": -23.10113831,
+    "long": -47.25604892
+  },
+  {
+    "id": 1135932,
+    "nome": "Rodovia João Ceccon",
+    "lat": -23.07179597,
+    "long": -47.23966867
+  },
+  {
+    "id": 1135933,
+    "nome": "Rua Daniel Paes",
+    "lat": -23.07451038,
+    "long": -47.23432302
+  },
+  {
+    "id": 1135934,
+    "nome": "Alameda Porteira de Ferro, 55",
+    "lat": -23.0573371,
+    "long": -47.18968838
+  },
+  {
+    "id": 1135935,
+    "nome": "Alameda Porteira de Ferro, 20",
+    "lat": -23.051,
+    "long": -47.1893
+  },
+  {
+    "id": 1135936,
+    "nome": "Rua H, 5-79",
+    "lat": -23.04536708,
+    "long": -47.18472898
+  },
+  {
+    "id": 1135937,
+    "nome": "Rua Venceslau José de Sauza, 1492-1554",
+    "lat": -23.05125923,
+    "long": -47.18143219
+  },
+  {
+    "id": 1135938,
+    "nome": "Estrada do Fogueteiro, 1462-1492",
+    "lat": -23.04254842,
+    "long": -47.17671186
+  },
+  {
+    "id": 1135939,
+    "nome": "Rua Arara Azul, 2968-3472",
+    "lat": -23.03606922,
+    "long": -47.1818912
+  },
+  {
+    "id": 1135940,
+    "nome": "Estrada do Fogueteiro, 2249",
+    "lat": -23.03078443,
+    "long": -47.18252689
+  },
+  {
+    "id": 1135941,
+    "nome": "Estrada Doutor Rafael Elias José Aun, 1526-1552",
+    "lat": -23.0537,
+    "long": -47.2095
+  },
+  {
+    "id": 1135942,
+    "nome": "Estrada Doutor Rafael Elias José Aun, 3118",
+    "lat": -23.04073921,
+    "long": -47.21055597
+  },
+  {
+    "id": 1135943,
+    "nome": "Estrada Doutor Rafael Elias José Aun",
+    "lat": -23.03109545,
+    "long": -47.20872402
+  },
+  {
+    "id": 1135944,
+    "nome": "Estrada Doutor Rafael Elias José Aun,10",
+    "lat": -23.02874796,
+    "long": -47.2058031
+  },
+  {
+    "id": 1135945,
+    "nome": "Estrada Municipal, 26",
+    "lat": -23.032,
+    "long": -47.2163
+  },
+  {
+    "id": 1135946,
+    "nome": "Estrada do Bom Sucesso, 100-200",
+    "lat": -23.02814812,
+    "long": -47.22023606
+  },
+  {
+    "id": 1135947,
+    "nome": "Estrada Francisco José Salla, 10",
+    "lat": -23.03018459,
+    "long": -47.23152548
+  },
+  {
+    "id": 1135948,
+    "nome": "Mirim 100",
+    "lat": -23.02004019,
+    "long": -47.23167971
+  },
+  {
+    "id": 1135949,
+    "nome": "Mirim 5000",
+    "lat": -23.01523864,
+    "long": -47.22774357
+  },
+  {
+    "id": 1135950,
+    "nome": "Mirim, 300",
+    "lat": -23.011,
+    "long": -47.2391
+  },
+  {
+    "id": 1135951,
+    "nome": "Rua Arlindo Tachinardi, 2-342",
+    "lat": -23.02566605,
+    "long": -47.23966599
+  },
+  {
+    "id": 1135952,
+    "nome": "Rua G, 9-121",
+    "lat": -23.0279,
+    "long": -47.245
+  },
+  {
+    "id": 1135953,
+    "nome": "Estrada 01, 1-105",
+    "lat": -23.0285,
+    "long": -47.2394
+  },
+  {
+    "id": 1135954,
+    "nome": "Alameda Vale do Sol",
+    "lat": -23.04665792,
+    "long": -47.24014342
+  },
+  {
+    "id": 1135955,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 976",
+    "lat": -23.04317687,
+    "long": -47.24523546
+  },
+  {
+    "id": 1135956,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 976",
+    "lat": -23.04308152,
+    "long": -47.24549107
+  },
+  {
+    "id": 1135957,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 8033",
+    "lat": -23.0375543,
+    "long": -47.26617318
+  },
+  {
+    "id": 1135958,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 8256",
+    "lat": -23.03737885,
+    "long": -47.2663007
+  },
+  {
+    "id": 1135959,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 8050-8167",
+    "lat": -23.0415,
+    "long": -47.2587
+  },
+  {
+    "id": 1135960,
+    "nome": "Rua 09",
+    "lat": -23.10558894,
+    "long": -47.24037409
+  },
+  {
+    "id": 1135961,
+    "nome": "Avenida Manoel Ruz Peres, 4370",
+    "lat": -23.10418272,
+    "long": -47.24864736
+  },
+  {
+    "id": 1135962,
+    "nome": "Avenida Manoel Ruz Peres, 131",
+    "lat": -23.10091133,
+    "long": -47.25629568
+  },
+  {
+    "id": 1135963,
+    "nome": "Rodovia João Ceccon",
+    "lat": -23.07162816,
+    "long": -47.23951578
+  },
+  {
+    "id": 1135964,
+    "nome": "Estrada Doutor Rafael Elias José Aun, 3118",
+    "lat": -23.04081326,
+    "long": -47.21064985
+  },
+  {
+    "id": 1135965,
+    "nome": "Estrada Doutor Rafael Elias José Aun, 2500",
+    "lat": -23.0311695,
+    "long": -47.20885813
+  },
+  {
+    "id": 1135966,
+    "nome": "Estrada Municipal, 27",
+    "lat": -23.03205813,
+    "long": -47.21651047
+  },
+  {
+    "id": 1135967,
+    "nome": "Estrada Francisco José Salla",
+    "lat": -23.0281506,
+    "long": -47.22032458
+  },
+  {
+    "id": 1135968,
+    "nome": "Estrada Francisco José Salla, 11",
+    "lat": -23.03032036,
+    "long": -47.23165154
+  },
+  {
+    "id": 1135969,
+    "nome": "Mirim 99",
+    "lat": -23.02004266,
+    "long": -47.23182723
+  },
+  {
+    "id": 1135970,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 8363",
+    "lat": -23.03509534,
+    "long": -47.27016894
+  },
+  {
+    "id": 1135971,
+    "nome": "Alameda Porteira de Ferro, 50",
+    "lat": -23.05747778,
+    "long": -47.18966156
+  },
+  {
+    "id": 1135972,
+    "nome": "Alameda Porteira de Ferro, 10",
+    "lat": -23.0510067,
+    "long": -47.18941614
+  },
+  {
+    "id": 1135973,
+    "nome": "Rua Venceslau José de Sauza, 1556-1746",
+    "lat": -23.05111159,
+    "long": -47.18142718
+  },
+  {
+    "id": 1135974,
+    "nome": "Estrada do Fogueteiro, 396-398",
+    "lat": -23.04982697,
+    "long": -47.17401892
+  },
+  {
+    "id": 1135975,
+    "nome": "Estrada do Fogueteiro, 1045-1101",
+    "lat": -23.04685537,
+    "long": -47.17432201
+  },
+  {
+    "id": 1135976,
+    "nome": "Estrada do Fogueteiro, 1461-1491",
+    "lat": -23.04264961,
+    "long": -47.17676818
+  },
+  {
+    "id": 1135977,
+    "nome": "Estrada do Fogueteiro, 2250",
+    "lat": -23.03601985,
+    "long": -47.18210042
+  },
+  {
+    "id": 1135978,
+    "nome": "Estrada 01, 711-843",
+    "lat": -23.02912317,
+    "long": -47.24648952
+  },
+  {
+    "id": 1135979,
+    "nome": "Rua H, 292-528",
+    "lat": -23.04293099,
+    "long": -47.18403161
+  },
+  {
+    "id": 1135980,
+    "nome": "Rua Periquito, 2-52",
+    "lat": -23.04121311,
+    "long": -47.1855551
+  },
+  {
+    "id": 1135981,
+    "nome": "Rua Zabelê, 3275-3531",
+    "lat": -23.0385079,
+    "long": -47.18610227
+  },
+  {
+    "id": 1135982,
+    "nome": "Rua Benedita Soares da Silva, 281",
+    "lat": -23.11683238,
+    "long": -47.25532796
+  },
+  {
+    "id": 1135983,
+    "nome": "Avenida Josué Ferreira da Silva, 122",
+    "lat": -23.12038826,
+    "long": -47.25327892
+  },
+  {
+    "id": 1135984,
+    "nome": "Rua Professora Sueli Maria Cação Ambiel Batista, 384",
+    "lat": -23.11379938,
+    "long": -47.25580257
+  },
+  {
+    "id": 1135985,
+    "nome": "Rua Almir Antonio Artoni, 477",
+    "lat": -23.11544573,
+    "long": -47.25614383
+  },
+  {
+    "id": 1135986,
+    "nome": "Rua Benedita Soares da Silva, 431",
+    "lat": -23.11767898,
+    "long": -47.25578434
+  },
+  {
+    "id": 1135988,
+    "nome": "Rua Kikuo Imanishi, 130-146",
+    "lat": -23.07380875,
+    "long": -47.22021997
+  },
+  {
+    "id": 1135989,
+    "nome": "Rua Antônio Ambiel, 5756",
+    "lat": -23.14097412,
+    "long": -47.24472195
+  },
+  {
+    "id": 1135990,
+    "nome": "Avenida João Ambiel, 378-386",
+    "lat": -23.06483821,
+    "long": -47.22078695
+  },
+  {
+    "id": 1135991,
+    "nome": "Rua Senai, 129",
+    "lat": -23.14330729,
+    "long": -47.21898018
+  },
+  {
+    "id": 1135992,
+    "nome": "Rua Anhangabaú, 704",
+    "lat": -23.12684078,
+    "long": -47.25140797
+  },
+  {
+    "id": 1135993,
+    "nome": "Rua Tupinambás, 1-107",
+    "lat": -23.08096058,
+    "long": -47.19407916
+  },
+  {
+    "id": 1135995,
+    "nome": "Rua Primo José Mattioni, 715-743",
+    "lat": -23.10055113,
+    "long": -47.20877498
+  },
+  {
+    "id": 1135996,
+    "nome": "Rua Antônio Zoppi, 211-313",
+    "lat": -23.09064765,
+    "long": -47.22212166
+  },
+  {
+    "id": 1135998,
+    "nome": "Avenida Euclides Galvão, 266-436",
+    "lat": -23.13947208,
+    "long": -47.15627342
+  },
+  {
+    "id": 1135999,
+    "nome": "Estrada IDT 371, 2343",
+    "lat": -23.12729477,
+    "long": -47.14844942
+  },
+  {
+    "id": 1136000,
+    "nome": "Rua Angemiro e Barnabé, 2371",
+    "lat": -23.12658807,
+    "long": -47.1475093
+  },
+  {
+    "id": 1136001,
+    "nome": "Estrada IDT 371",
+    "lat": -23.1345564,
+    "long": -47.15437308
+  },
+  {
+    "id": 1136002,
+    "nome": "Estrada IDT 371, 925-997",
+    "lat": -23.13564906,
+    "long": -47.15700299
+  },
+  {
+    "id": 1136003,
+    "nome": "Rua Tupinambás, 560",
+    "lat": -23.07717045,
+    "long": -47.19747484
+  },
+  {
+    "id": 1136004,
+    "nome": "Marginal Norte, 487",
+    "lat": -23.11778549,
+    "long": -47.2174573
+  },
+  {
+    "id": 1136005,
+    "nome": "Rua Rêmulo Zoppi, 259",
+    "lat": -23.07892482,
+    "long": -47.20731712
+  },
+  {
+    "id": 1136006,
+    "nome": "Rua Dom Idelfonso Stehle, 478",
+    "lat": -23.07988787,
+    "long": -47.20668286
+  },
+  {
+    "id": 1136007,
+    "nome": "Rua Dom Idelfonso Stehle, 760",
+    "lat": -23.08105502,
+    "long": -47.20426917
+  },
+  {
+    "id": 1136008,
+    "nome": "Marginal Norte, 1304-1456",
+    "lat": -23.08786086,
+    "long": -47.17992783
+  },
+  {
+    "id": 1136009,
+    "nome": "Marginal Norte, 403",
+    "lat": -23.10860496,
+    "long": -47.20604181
+  },
+  {
+    "id": 1136010,
+    "nome": "Rua das Margaridas",
+    "lat": -23.09571571,
+    "long": -47.22107756
+  },
+  {
+    "id": 1136011,
+    "nome": "Rua José Francisco Ceccon, 560-570",
+    "lat": -23.11204572,
+    "long": -47.226668
+  },
+  {
+    "id": 1136012,
+    "nome": "Rua Doutor Renato Riggio, 1756",
+    "lat": -23.11344214,
+    "long": -47.22728283
+  },
+  {
+    "id": 1136013,
+    "nome": "Alameda Setúbal, 2",
+    "lat": -23.12988226,
+    "long": -47.18456268
+  },
+  {
+    "id": 1136014,
+    "nome": "Avenida Josué Ferreira da Silva, 82",
+    "lat": -23.12102863,
+    "long": -47.25230485
+  },
+  {
+    "id": 1136015,
+    "nome": "Rua Ayrton Senna da Silva, 12",
+    "lat": -23.05212661,
+    "long": -47.24021047
+  },
+  {
+    "id": 1136016,
+    "nome": "Rua Ângelo Petrilli, 905",
+    "lat": -23.07369738,
+    "long": -47.22146988
+  },
+  {
+    "id": 1136017,
+    "nome": "Estrada Municipal José Boldrini, 13348",
+    "lat": -23.15133552,
+    "long": -47.15078392
+  },
+  {
+    "id": 1136018,
+    "nome": "Avenida Horst Frederico João Heer, 3585",
+    "lat": -23.11971947,
+    "long": -47.26935804
+  },
+  {
+    "id": 1136019,
+    "nome": "Rua Sebastião Nicolau, 142",
+    "lat": -23.07815007,
+    "long": -47.21383363
+  },
+  {
+    "id": 1136020,
+    "nome": "Alameda Filtros Mann, 177-275",
+    "lat": -23.11296029,
+    "long": -47.21912295
+  },
+  {
+    "id": 1136021,
+    "nome": "Avenida Windsor Park, 307-821",
+    "lat": -23.05973838,
+    "long": -47.16202945
+  },
+  {
+    "id": 1136022,
+    "nome": "Avenida Windsor Park, 2-260",
+    "lat": -23.06321807,
+    "long": -47.16615468
+  },
+  {
+    "id": 1136023,
+    "nome": "Avenida Windsor Park, 2-260",
+    "lat": -23.06450627,
+    "long": -47.1676594
+  },
+  {
+    "id": 1136024,
+    "nome": "Avenida Windsor Park, 1-259",
+    "lat": -23.06309213,
+    "long": -47.16614127
+  },
+  {
+    "id": 1136025,
+    "nome": "Avenida San Cristobal, 2-206",
+    "lat": -23.0596075,
+    "long": -47.1620214
+  },
+  {
+    "id": 1136026,
+    "nome": "Rua Helena Tomasi, 56-108",
+    "lat": -23.09768921,
+    "long": -47.22377658
+  },
+  {
+    "id": 1136027,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 1984",
+    "lat": -23.08510988,
+    "long": -47.2250592
+  },
+  {
+    "id": 1136028,
+    "nome": "Rua Antônio Barnabé, 799-1179",
+    "lat": -23.13174669,
+    "long": -47.22836973
+  },
+  {
+    "id": 1136029,
+    "nome": "Alameda Júpiter, 472",
+    "lat": -23.13874022,
+    "long": -47.23385355
+  },
+  {
+    "id": 1136030,
+    "nome": "Avenida Vitória Rossi Martini, 1-99",
+    "lat": -23.13835725,
+    "long": -47.24032044
+  },
+  {
+    "id": 1136031,
+    "nome": "Alameda Júpiter, 750-814",
+    "lat": -23.13885547,
+    "long": -47.23371148
+  },
+  {
+    "id": 1136032,
+    "nome": "Rua Ettore Soliani, 534-826",
+    "lat": -23.13696616,
+    "long": -47.23084688
+  },
+  {
+    "id": 1136034,
+    "nome": "Rua Benedita Soares da Silva, 119",
+    "lat": -23.11494524,
+    "long": -47.25461386
+  },
+  {
+    "id": 1136035,
+    "nome": "Alameda Vale do Sol, 1000",
+    "lat": -23.0256031,
+    "long": -47.2395587
+  },
+  {
+    "id": 1136036,
+    "nome": "Rua Jeronymo Perucci, 2-76",
+    "lat": -23.12373534,
+    "long": -47.22616911
+  },
+  {
+    "id": 1136037,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 1126-1174",
+    "lat": -23.13491897,
+    "long": -47.2197479
+  },
+  {
+    "id": 1136038,
+    "nome": "Avenida Itororó, 421-455",
+    "lat": -23.08464698,
+    "long": -47.20936239
+  },
+  {
+    "id": 1136039,
+    "nome": "Avenida Presidente Vargas, 3041",
+    "lat": -23.0857815,
+    "long": -47.18309181
+  },
+  {
+    "id": 1136040,
+    "nome": "Rodovia João Ceccon, 1081",
+    "lat": -23.0743031,
+    "long": -47.23410845
+  },
+  {
+    "id": 1136041,
+    "nome": "Avenida Clóvis Ferraz de Camargo, 1001",
+    "lat": -23.09741289,
+    "long": -47.28178203
+  },
+  {
+    "id": 1136042,
+    "nome": "Avenida Clóvis Ferraz de Camargo, 810",
+    "lat": -23.09826654,
+    "long": -47.27834344
+  },
+  {
+    "id": 1136043,
+    "nome": "Avenida Ottilia Ferraz de Camargo,10",
+    "lat": -23.0997271,
+    "long": -47.27147698
+  },
+  {
+    "id": 1136044,
+    "nome": "Avenida Ottilia Ferraz de Camargo, 50",
+    "lat": -23.09764974,
+    "long": -47.27297902
+  },
+  {
+    "id": 1136045,
+    "nome": "Avenida Horst Frederico João Heer, 4500",
+    "lat": -23.09878958,
+    "long": -47.27530181
+  },
+  {
+    "id": 1136046,
+    "nome": "Avenida Horst Frederico João Heer, 4801",
+    "lat": -23.09697015,
+    "long": -47.2745522
+  },
+  {
+    "id": 1136047,
+    "nome": "Avenida Ottilia Ferraz de Camargo, 301",
+    "lat": -23.09389461,
+    "long": -47.27865458
+  },
+  {
+    "id": 1136048,
+    "nome": "Avenida Ottilia Ferraz de Camargo, 300",
+    "lat": -23.09379592,
+    "long": -47.27848291
+  },
+  {
+    "id": 1136049,
+    "nome": "Avenida Ottilia Ferraz de Camargo, 100",
+    "lat": -23.09551806,
+    "long": -47.27532327
+  },
+  {
+    "id": 1136050,
+    "nome": "Avenida Clóvis Ferraz de Camargo,901",
+    "lat": -23.09766454,
+    "long": -47.28069842
+  },
+  {
+    "id": 1136051,
+    "nome": "Rua Irmã Maria Angélica",
+    "lat": -23.09636186,
+    "long": -47.28147089
+  },
+  {
+    "id": 1136052,
+    "nome": "Rua 06",
+    "lat": -23.09529601,
+    "long": -47.28103638
+  },
+  {
+    "id": 1136053,
+    "nome": "Rua Irmã Maria Angélica, 300",
+    "lat": -23.09439793,
+    "long": -47.27952361
+  },
+  {
+    "id": 1136054,
+    "nome": "Rua Jabaquara, 157",
+    "lat": -23.12382908,
+    "long": -47.24982083
+  },
+  {
+    "id": 1136055,
+    "nome": "Rua Ipê Branco, 95",
+    "lat": -23.09911277,
+    "long": -47.2757256
+  },
+  {
+    "id": 1136056,
+    "nome": "Rua Reverendo Manoel Pereira da Silva, 860-950",
+    "lat": -23.10440475,
+    "long": -47.18588233
+  },
+  {
+    "id": 1136057,
+    "nome": "Rua Reverendo Manoel Pereira da Silva, 952-1194",
+    "lat": -23.1059442,
+    "long": -47.18443394
+  },
+  {
+    "id": 1136058,
+    "nome": "Rua Francisco Araújo, 51",
+    "lat": -23.10918092,
+    "long": -47.18200922
+  },
+  {
+    "id": 1136059,
+    "nome": "Rua Ângelo Escodro",
+    "lat": -23.10480935,
+    "long": -47.18714297
+  },
+  {
+    "id": 1136060,
+    "nome": "Estrada IDT 336, 1473",
+    "lat": -23.11924831,
+    "long": -47.15017945
+  },
+  {
+    "id": 1136061,
+    "nome": "Rua Angemiro e Barnabé, 1923",
+    "lat": -23.12306933,
+    "long": -47.14966715
+  },
+  {
+    "id": 1136062,
+    "nome": "Avenida Ottilia Ferraz de Camargo, 11",
+    "lat": -23.09959881,
+    "long": -47.27162719
+  },
+  {
+    "id": 1136063,
+    "nome": "Avenida Ottilia Ferraz de Camargo, 51",
+    "lat": -23.0976004,
+    "long": -47.27316678
+  },
+  {
+    "id": 1136064,
+    "nome": "Avenida Ottilia Ferraz de Camargo,101",
+    "lat": -23.09552793,
+    "long": -47.27548957
+  },
+  {
+    "id": 1136065,
+    "nome": "Rua Irmã Maria Angélica, 301",
+    "lat": -23.0942351,
+    "long": -47.2798723
+  },
+  {
+    "id": 1136066,
+    "nome": "Rua Irmã Maria Angélica, 200",
+    "lat": -23.09513811,
+    "long": -47.28132069
+  },
+  {
+    "id": 1136067,
+    "nome": "Rua Irmã Angélica, 100",
+    "lat": -23.09620889,
+    "long": -47.28323042
+  },
+  {
+    "id": 1136068,
+    "nome": "Avenida Clóvis Ferraz de Camargo, 1002",
+    "lat": -23.09762507,
+    "long": -47.28197515
+  },
+  {
+    "id": 1136069,
+    "nome": "Avenida Clóvis Ferraz de Camargo, 900",
+    "lat": -23.09786192,
+    "long": -47.28078961
+  },
+  {
+    "id": 1136070,
+    "nome": "Avenida Clóvis Ferraz de Camargo, 810",
+    "lat": -23.09839483,
+    "long": -47.27853655
+  },
+  {
+    "id": 1136071,
+    "nome": "Avenida Manoel Ruz Peres, 701",
+    "lat": -23.10405936,
+    "long": -47.26516843
+  },
+  {
+    "id": 1136072,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 5246",
+    "lat": -23.11290602,
+    "long": -47.23253131
+  },
+  {
+    "id": 1136073,
+    "nome": "Rua Sílvio Talli, 813-863",
+    "lat": -23.10749349,
+    "long": -47.21211433
+  },
+  {
+    "id": 1136074,
+    "nome": "Rua Sílvio Talli, 1032-1072",
+    "lat": -23.10763658,
+    "long": -47.2121948
+  },
+  {
+    "id": 1136075,
+    "nome": "Rua Alzira Barnabé, 571-589",
+    "lat": -23.10889968,
+    "long": -47.21222699
+  },
+  {
+    "id": 1136076,
+    "nome": "Rua Domacyr Stocco Junior, 799",
+    "lat": -23.10789013,
+    "long": -47.21305627
+  },
+  {
+    "id": 1136077,
+    "nome": "Avenida Manoel Ruz Peres, 100",
+    "lat": -23.10228305,
+    "long": -47.25204706
+  },
+  {
+    "id": 1136078,
+    "nome": "Avenida Manoel Ruz Peres, 601",
+    "lat": -23.10364489,
+    "long": -47.25965381
+  },
+  {
+    "id": 1136079,
+    "nome": "Avenida Manoel Ruz Peres, 300",
+    "lat": -23.10377318,
+    "long": -47.26524353
+  },
+  {
+    "id": 1136080,
+    "nome": "Avenida Clóvis Ferraz de Camargo, 500",
+    "lat": -23.10284555,
+    "long": -47.26892352
+  },
+  {
+    "id": 1136081,
+    "nome": "Avenida Engenheiro Fábio Roberto Barnabé, 5580-5716",
+    "lat": -23.11652247,
+    "long": -47.23352909
+  },
+  {
+    "id": 1136082,
+    "nome": "Rua João Walsh Costa, 1929-1937",
+    "lat": -23.11862174,
+    "long": -47.24374831
+  },
+  {
+    "id": 1136083,
+    "nome": "Avenida Manoel Ruz Peres, 501",
+    "lat": -23.10672378,
+    "long": -47.27022707
+  },
+  {
+    "id": 1136084,
+    "nome": "Rua Sebastião Rufino Pedroso, 500",
+    "lat": -23.106853,
+    "long": -47.270294
+  },
+  {
+    "id": 1136085,
+    "nome": "Avenida Horst Frederico João Heer, 1418",
+    "lat": -23.115528,
+    "long": -47.271782
+  },
+  {
+    "id": 1136086,
+    "nome": "Rua 10",
+    "lat": -23.11713425,
+    "long": -47.26541519
+  },
+  {
+    "id": 1136087,
+    "nome": "Rua 23",
+    "lat": -23.115824,
+    "long": -47.263294
+  },
+  {
+    "id": 1136088,
+    "nome": "Rua Wolney Figueira",
+    "lat": -23.113974,
+    "long": -47.264664
+  },
+  {
+    "id": 1136089,
+    "nome": "Rua 01",
+    "lat": -23.1113,
+    "long": -47.263493
+  },
+  {
+    "id": 1136090,
+    "nome": "Rua 13",
+    "lat": -23.11272347,
+    "long": -47.26477146
+  },
+  {
+    "id": 1136091,
+    "nome": "Avenida Nelson José de Campos",
+    "lat": -23.115253,
+    "long": -47.266109
+  },
+  {
+    "id": 1136092,
+    "nome": "Rua 09",
+    "lat": -23.11814507,
+    "long": -47.26197636
+  },
+  {
+    "id": 1136093,
+    "nome": "Avenida 02",
+    "lat": -23.114542,
+    "long": -47.257759
+  },
+  {
+    "id": 1136094,
+    "nome": "Rua 20",
+    "lat": -23.101379,
+    "long": -47.250191
+  },
+  {
+    "id": 1136095,
+    "nome": "Rua 18",
+    "lat": -23.09886872,
+    "long": -47.25021964
+  },
+  {
+    "id": 1136096,
+    "nome": "Rua 01",
+    "lat": -23.09735675,
+    "long": -47.24889519
+  },
+  {
+    "id": 1136097,
+    "nome": "Rua 02",
+    "lat": -23.09469,
+    "long": -47.247704
+  },
+  {
+    "id": 1136098,
+    "nome": "Avenida 01",
+    "lat": -23.09326913,
+    "long": -47.25029764
+  },
+  {
+    "id": 1136099,
+    "nome": "Avenida Padre Arthur Lupurine Sampaio",
+    "lat": -23.09992448,
+    "long": -47.25174665
+  },
+  {
+    "id": 1136100,
+    "nome": "Rua Juarez Rodrigues de Lima, 387",
+    "lat": -23.11456652,
+    "long": -47.25743764
+  },
+  {
+    "id": 1136101,
+    "nome": "Avenida 02",
+    "lat": -23.11457858,
+    "long": -47.25800693
+  },
+  {
+    "id": 1136102,
+    "nome": "Avenida 02",
+    "lat": -23.1179335,
+    "long": -47.26199806
+  },
+  {
+    "id": 1136103,
+    "nome": "Rua 11",
+    "lat": -23.11723292,
+    "long": -47.26684213
+  },
+  {
+    "id": 1136105,
+    "nome": "Rua Salto, 830",
+    "lat": -23.036552,
+    "long": -47.203335
+  },
+  {
+    "id": 1137521,
+    "nome": "Avenida Ário Barnabé, 1517-1669",
+    "lat": -23.11615397,
+    "long": -47.23951777
+  },
+  {
+    "id": 1137637,
+    "nome": "Rua João Wolf Filho, 1-71",
+    "lat": -23.11396596,
+    "long": -47.2218646
+  },
+  {
+    "id": 1137639,
+    "nome": "Rua Ignácio Ambiel Júnior, 125-145",
+    "lat": -23.08958176,
+    "long": -47.19337374
+  },
+  {
+    "id": 1137640,
+    "nome": "Rua Vinte e Quatro de Maio, 2757",
+    "lat": -23.09241702,
+    "long": -47.19937039
+  },
+  {
+    "id": 1137650,
+    "nome": "Avenida João Ambiel, 30",
+    "lat": -23.070469,
+    "long": -47.2170153
+  },
+  {
+    "id": 1137656,
+    "nome": "Rua das Orquídeas, 315",
+    "lat": -23.09444779,
+    "long": -47.21975899
+  },
+  {
+    "id": 1137657,
+    "nome": "Rodovia Lix da Cunha, 2601",
+    "lat": -23.0897224,
+    "long": -47.17021286
+  },
+  {
+    "id": 1137658,
+    "nome": "Rodovia Lix da Cunha, 585",
+    "lat": -23.08941152,
+    "long": -47.17203945
+  },
+  {
+    "id": 1137659,
+    "nome": "Rodovia Lix da Cunha - Jardim dos Lagos",
+    "lat": -23.08832465,
+    "long": -47.17608556
+  },
+  {
+    "id": 1137661,
+    "nome": "Rua Tupinambás, 949-1009",
+    "lat": -23.07409582,
+    "long": -47.19979763
+  },
+  {
+    "id": 1137662,
+    "nome": "Rua Guarino Vanucci, 336",
+    "lat": -23.10322549,
+    "long": -47.23446786
+  },
+  {
+    "id": 1137663,
+    "nome": "Rua Hermínio Steffen, 283",
+    "lat": -23.09755018,
+    "long": -47.23113377
+  },
+  {
+    "id": 1137666,
+    "nome": "Rua dos Indaiás, 1369-1401",
+    "lat": -23.10655109,
+    "long": -47.21104145
+  },
+  {
+    "id": 1137667,
+    "nome": "Rua Pederneiras, 233",
+    "lat": -23.09649755,
+    "long": -47.20313966
+  },
+  {
+    "id": 1137668,
+    "nome": "Rua Reverendo Ataíde Costa, 66-128",
+    "lat": -23.11391745,
+    "long": -47.22362906
+  },
+  {
+    "id": 1137669,
+    "nome": "Terminal Cristo / Morada do Sol",
+    "lat": -23.11639172,
+    "long": -47.23926097
+  },
+  {
+    "id": 1137670,
+    "nome": "Rua Professor Osvaldo Antônio Tuon, 284-348",
+    "lat": -23.10538171,
+    "long": -47.2256434
+  },
+  {
+    "id": 1137671,
+    "nome": "Terminal Rodoviário de Indaiatuba",
+    "lat": -23.10972859,
+    "long": -47.20974863
+  },
+  {
+    "id": 1138696,
+    "nome": "Rua dos Indaiás, 1116",
+    "lat": -23.10449357,
+    "long": -47.21160471
+  },
+  {
+    "id": 1138697,
+    "nome": "Rua Titi Tomazi, 261-345",
+    "lat": -23.06143628,
+    "long": -47.23437667
+  },
+  {
+    "id": 1138698,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 3702",
+    "lat": -23.05420958,
+    "long": -47.23169523
+  },
+  {
+    "id": 1138699,
+    "nome": "Rua Senador Romeu Tuma, 28",
+    "lat": -23.05059577,
+    "long": -47.23810457
+  },
+  {
+    "id": 1138740,
+    "nome": "Rua Teotônio Vilela, 148-170",
+    "lat": -23.07369606,
+    "long": -47.19491601
+  },
+  {
+    "id": 1138741,
+    "nome": "Rua Teotônio Vilela, 300-362",
+    "lat": -23.07496935,
+    "long": -47.19378948
+  },
+  {
+    "id": 1138742,
+    "nome": "Rua Elza Vieira de Abreu, 371-395",
+    "lat": -23.09956427,
+    "long": -47.2410661
+  },
+  {
+    "id": 1138743,
+    "nome": "Rua Elza Vieira de Abreu, 281-315",
+    "lat": -23.10008237,
+    "long": -47.240417
+  },
+  {
+    "id": 1138744,
+    "nome": "Estrada do Fogueteiro, 2251",
+    "lat": -23.03065854,
+    "long": -47.18248665
+  },
+  {
+    "id": 1138745,
+    "nome": "Rua Periquito, 1-51",
+    "lat": -23.04122792,
+    "long": -47.18563557
+  },
+  {
+    "id": 1138746,
+    "nome": "Rua H, 291-527",
+    "lat": -23.04293592,
+    "long": -47.18408525
+  },
+  {
+    "id": 1138747,
+    "nome": "Rua H, 5-79",
+    "lat": -23.0453498,
+    "long": -47.18479335
+  },
+  {
+    "id": 1138748,
+    "nome": "Avenida Clóvis Ferraz de Camargo, 501",
+    "lat": -23.1027074,
+    "long": -47.26870358
+  },
+  {
+    "id": 1138750,
+    "nome": "Alameda Pedro Wolf, 398-612",
+    "lat": -23.0613407,
+    "long": -47.14425669
+  },
+  {
+    "id": 1138751,
+    "nome": "Alameda Pedro Wolf, 300",
+    "lat": -23.05646641,
+    "long": -47.14665059
+  },
+  {
+    "id": 1138752,
+    "nome": "Alameda Antônio Ambiel, 1586",
+    "lat": -23.04926424,
+    "long": -47.15051472
+  },
+  {
+    "id": 1138753,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 6058",
+    "lat": -23.03898181,
+    "long": -47.15987831
+  },
+  {
+    "id": 1138754,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 5759",
+    "lat": -23.04148114,
+    "long": -47.16228143
+  },
+  {
+    "id": 1138755,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 5261",
+    "lat": -23.04509621,
+    "long": -47.16490374
+  },
+  {
+    "id": 1138756,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 5256-5560",
+    "lat": -23.04642591,
+    "long": -47.16588914
+  },
+  {
+    "id": 1138757,
+    "nome": "Avenida Ângelo Bertelli Netto, 230-407",
+    "lat": -23.06344634,
+    "long": -47.17588926
+  },
+  {
+    "id": 1138758,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 4087-4133",
+    "lat": -23.05229008,
+    "long": -47.17190802
+  },
+  {
+    "id": 1138759,
+    "nome": "Rodovia Engº. Paulo de Tarso Souza Martins, 4355",
+    "lat": -23.05038968,
+    "long": -47.16977835
+  },
+  {
+    "id": 1138760,
+    "nome": "IVA-343",
+    "lat": -23.19140498,
+    "long": -47.15961814
+  },
+  {
+    "id": 1138761,
+    "nome": "Alameda Comendador Dr. Santoro Mirone, 8001",
+    "lat": -23.18705582,
+    "long": -47.15803027
+  },
+  {
+    "id": 1138762,
+    "nome": "Alameda Comendador Dr. Santoro Mirone, 7001",
+    "lat": -23.18363359,
+    "long": -47.16517568
+  },
+  {
+    "id": 1138763,
+    "nome": "Alameda Comendador Dr. Santoro Mirone, 6501",
+    "lat": -23.18131096,
+    "long": -47.16822803
+  },
+  {
+    "id": 1138764,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 6001",
+    "lat": -23.17917568,
+    "long": -47.16996074
+  },
+  {
+    "id": 1138765,
+    "nome": "Alameda Comendador Dr. Santoro Mirone, 5501",
+    "lat": -23.17202497,
+    "long": -47.17342615
+  },
+  {
+    "id": 1138766,
+    "nome": "Alameda Comendador Dr. Santoro Mirone, 5001",
+    "lat": -23.17069342,
+    "long": -47.17735291
+  },
+  {
+    "id": 1138767,
+    "nome": "Alameda Comendador Dr. Santoro Mirone, 4001",
+    "lat": -23.16741872,
+    "long": -47.18729854
+  },
+  {
+    "id": 1138768,
+    "nome": "Alameda Comendador Dr. Santoro Mirone, 3001",
+    "lat": -23.16625481,
+    "long": -47.19302773
+  },
+  {
+    "id": 1138769,
+    "nome": "Alameda Comendador Dr. Santoro Mirone, 1600",
+    "lat": -23.14271786,
+    "long": -47.21746802
+  },
+  {
+    "id": 1138770,
+    "nome": "Alameda Comendador Doutor Santoro Mirone, 977-999",
+    "lat": -23.13653081,
+    "long": -47.21824565
+  },
+  {
+    "id": 1138771,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 8364",
+    "lat": -23.03501277,
+    "long": -47.27005541
+  },
+  {
+    "id": 1138772,
+    "nome": "Rodovia Cônego Cyriaco Scaranelo Pires, 8050-8168",
+    "lat": -23.04139082,
+    "long": -47.25875795
+  },
+  {
+    "id": 1138773,
+    "nome": "Estrada Doutor Rafael Elias José Aun, 1525-1551",
+    "lat": -23.05369685,
+    "long": -47.20961988
+  },
+  {
+    "id": 1138774,
+    "nome": "Alameda Vale do Sol",
+    "lat": -23.04665298,
+    "long": -47.24022925
+  },
+  {
+    "id": 1138775,
+    "nome": "Rua Antônio Cantelli, 1312",
+    "lat": -23.12087885,
+    "long": -47.24668801
+  },
+  {
+    "id": 1138776,
+    "nome": "Avenida Vitória Rossi Martini, 2-100",
+    "lat": -23.13852298,
+    "long": -47.24063079
+  },
+  {
+    "id": 1138777,
+    "nome": "Avenida Juscelino Kubitschek de Oliveira, 620-678",
+    "lat": -23.12581724,
+    "long": -47.22170591
+  },
+  {
+    "id": 1138778,
+    "nome": "Rua Leni Benedita de Maria Madureira, 94-246",
+    "lat": -23.13542214,
+    "long": -47.22047746
+  },
+  {
+    "id": 1138779,
+    "nome": "Rua Antônio Ambiel, 5756",
+    "lat": -23.14094206,
+    "long": -47.24491239
+  },
+  {
+    "id": 1138780,
+    "nome": "Rua Jaraguá, 94",
+    "lat": -23.1275365,
+    "long": -47.24942923
+  },
+  {
+    "id": 1138781,
+    "nome": "Rua Anhangabaú, 485",
+    "lat": -23.1249539,
+    "long": -47.25070059
+  },
+  {
+    "id": 1138782,
+    "nome": "Rua Anhangabaú, 217",
+    "lat": -23.12249705,
+    "long": -47.24986911
+  },
+  {
+    "id": 1138783,
+    "nome": "Marginal Norte, 486",
+    "lat": -23.11770162,
+    "long": -47.21748948
+  },
+  {
+    "id": 1138784,
+    "nome": "Avenida Horst Frederico João Heer, 1419",
+    "lat": -23.11552586,
+    "long": -47.27168083
+  },
+  {
+    "id": 1138785,
+    "nome": "Avenida Vitória Rossi Martini, 684-968",
+    "lat": -23.14367535,
+    "long": -47.23403774
+  },
+  {
+    "id": 1138786,
+    "nome": "Avenida Vitória Rossi Martini, 31-275",
+    "lat": -23.14349723,
+    "long": -47.23425865
+  },
+  {
+    "id": 1138787,
+    "nome": "Rua Hermínio de Mello, 851",
+    "lat": -23.1325215,
+    "long": -47.23233819
+  },
+  {
+    "id": 1138788,
+    "nome": "Avenida José Viêira, 420-600",
+    "lat": -23.13397676,
+    "long": -47.23070741
+  },
+  {
+    "id": 1138789,
+    "nome": "Avenida Coronel Antônio Estanislau do Amaral, 1002-1198",
+    "lat": -23.10387943,
+    "long": -47.18312946
+  },
+  {
+    "id": 1138790,
+    "nome": "Estrada Municipal José Boldrini, 6950",
+    "lat": -23.15654114,
+    "long": -47.14526564
+  },
+  {
+    "id": 1138791,
+    "nome": "Estrada Municipal José Boldrini, 13347",
+    "lat": -23.15126108,
+    "long": -47.15062737
+  },
+  {
+    "id": 1138792,
+    "nome": "Estrada Municipal José Boldrini,14000",
+    "lat": -23.16488374,
+    "long": -47.1399951
+  },
+  {
+    "id": 1138793,
+    "nome": "Estrada Municipal José Boldrini, 16000",
+    "lat": -23.16823401,
+    "long": -47.1242769
+  },
+  {
+    "id": 1138794,
+    "nome": "Estrada Municipal José Boldrini, 16500",
+    "lat": -23.16963296,
+    "long": -47.12174165
+  },
+  {
+    "id": 1138795,
+    "nome": "Alameda Ponta Delgada, 1122-1364",
+    "lat": -23.14320126,
+    "long": -47.18975008
+  },
+  {
+    "id": 1138796,
+    "nome": "Alameda Santarém, 187-653",
+    "lat": -23.14386718,
+    "long": -47.19146132
+  },
+  {
+    "id": 1138797,
+    "nome": "Alameda Santarém, 187",
+    "lat": -23.1398667,
+    "long": -47.19128966
+  },
+  {
+    "id": 1138798,
+    "nome": "Alameda Santarém, 687-833",
+    "lat": -23.13429248,
+    "long": -47.19188511
+  },
+  {
+    "id": 1138799,
+    "nome": "Alameda Santarém, 569",
+    "lat": -23.13115996,
+    "long": -47.19108582
+  },
+  {
+    "id": 1138800,
+    "nome": "Avenida Lisboa, 342",
+    "lat": -23.13030652,
+    "long": -47.18905807
+  },
+  {
+    "id": 1138801,
+    "nome": "Avenida Lisboa, 384-686",
+    "lat": -23.12925081,
+    "long": -47.18645632
+  },
+  {
+    "id": 1572314,
+    "nome": "Rua Teruo Imanishi, 81",
+    "lat": -23.10649612,
+    "long": -47.21170137
+  },
+  {
+    "id": 1656073,
+    "nome": "Plastek",
+    "lat": -23.07400509,
+    "long": -47.16869329
+  },
+  {
+    "id": 1658101,
+    "nome": "Toyota - Portaria P-3",
+    "lat": -23.14168887,
+    "long": -47.24811715
+  },
+  {
+    "id": 1658103,
+    "nome": "Bem-te-vi",
+    "lat": -23.1479794,
+    "long": -47.14648916
+  },
+  {
+    "id": 1658104,
+    "nome": "Bem-te-vi",
+    "lat": -23.14804845,
+    "long": -47.14636041
+  },
+  {
+    "id": 1658105,
+    "nome": "Rua Salto, 1460",
+    "lat": -23.15392906,
+    "long": -47.14261918
+  }
+]
