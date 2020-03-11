@@ -1,5 +1,8 @@
 from app.database.entities.Ponto import Ponto
 from app.database.entities.Passageiro import Passageiro
+from app.database.entities.Ponto import Ponto
+
+from app.utils.utils import current_date
 
 class Viagem:
     def __init__(
@@ -15,7 +18,11 @@ class Viagem:
             linha_nome = None,
             linha_numero = None,
             letreiro = None,
-            viagem_id = None):
+            fase_da_viagem = None,
+            viagem_id = None,
+            token = None,
+            veiculo = None,
+            data = current_date()):
 
         self._id = id
         self._origem = origem
@@ -29,7 +36,40 @@ class Viagem:
         self._linha_numero = linha_numero
         self._letreiro = letreiro
         self._viagem_id = viagem_id
+        self._data = data
+        self._fase_da_viagem = fase_da_viagem
+        self._token = token
+        self._veiculo = veiculo
     
+
+    @staticmethod
+    def toObj(dict):
+        passageiro = Passageiro.toObj(dict['passageiro'])
+        origem = Ponto.toObj(dict['origem'])
+        destino = Ponto.toObj(dict['destino'])
+
+        viagem = Viagem()
+
+        viagem._passageiro = passageiro
+        viagem._origem = origem
+        viagem._destino = destino
+
+        viagem._horario_chegada = dict['horario_chegada']
+        viagem._horario_partida = dict['horario_partida']
+        viagem._letreiro = dict['letreiro']
+        viagem._linha_nome = dict['linha_nome']
+        viagem._linha_numero = dict['linha_numero']
+        viagem._viagem_id = dict['viagem_id']
+        viagem._id = dict['id']
+        viagem._minutos_restantes = dict['minutos_restantes']
+        viagem._data = dict['data']
+        viagem._status = dict['status']
+        viagem._token = dict['token']
+        viagem._veiculo = dict['veiculo']
+        viagem._fase_da_viagem = dict['fase_da_viagem']
+
+        return viagem
+        
     def toDict(self):
         return {
             "id":self._id,
@@ -43,8 +83,36 @@ class Viagem:
             "linha_nome":self._linha_nome,
             "linha_numero":self._linha_numero,
             "letreiro":self._letreiro,
-            "viagem_id":self._viagem_id
+            "viagem_id":self._viagem_id,
+            "data":self._data,
+            "token":self._token,
+            "veiculo":self._veiculo,
+            "fase_da_viagem":self._fase_da_viagem
         }
+    
+    @property
+    def fase_da_viagem(self):
+        return self._fase_da_viagem
+    
+    @fase_da_viagem.setter
+    def fase_da_viagem(self, fase_da_viagem):
+        self._fase_da_viagem = fase_da_viagem
+
+    @property
+    def token(self):
+        return self._token
+    
+    @token.setter
+    def token(self, token):
+        self._token = token
+
+    @property
+    def data(self):
+        return self._data
+    
+    @data.setter
+    def data(self, data):
+        self._data = data
     
     @property
     def viagem_id(self):

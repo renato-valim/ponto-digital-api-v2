@@ -31,6 +31,22 @@ class Passageiro:
             "genero": self._genero
         }
 
+    @staticmethod
+    def toObj(dict):
+        passageiro = Passageiro()
+
+        passageiro._nome = dict['nome']
+        passageiro._nome_usuario = dict['nome_usuario']
+        passageiro._tipo = dict['tipo']
+        passageiro._endereco = dict['endereco']
+        passageiro._rg = dict['rg']
+        passageiro._cpf = dict['cpf']
+        passageiro._id = dict['id']
+        passageiro._data_nascimento = dict['data_nascimento']
+        passageiro._genero = dict['genero']
+
+        return passageiro
+
     @nome.setter
     def nome(self, nome):
         self._nome = nome

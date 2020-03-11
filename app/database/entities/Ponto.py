@@ -14,7 +14,19 @@ class Ponto:
             "lng":float(self._lng),
             "id":self._id
         }
+   
+    @staticmethod
+    def toObj(dict):
+        ponto = Ponto()
 
+        ponto.cod = dict['cod']
+        ponto.nome = dict['nome']
+        ponto.lat = dict['lat']
+        ponto.lng = dict['lng']
+        ponto.id = dict['id']
+
+        return ponto
+        
     @property
     def id(self):
         return self._id
