@@ -53,14 +53,20 @@ class ControladorViagem(threading.Thread):
 
         try:
             status_dir = 'app/database/temp/viagem/viagem_{}/STATUS.txt'.format(self.viagem._id)
-            status = open(status_dir, 'r').read()
+            status = open(status_dir, 'r')
 
-            self.viagem._status = status
+            self.viagem._status = status.read()
+            status.close()
+
+            print(self.viagem._status)
+
+            if(self.viagem._status == "CANCELADA" or self.viagem._status == "FINALIZADA"):
+                self.cancel()
+            
         except FileNotFoundError:
              print("Status externo não definido")
             
-        if(self.viagem._status == "CANCELADA" or self.viagem._status == "FINALIZADA"):
-            self.cancel()
+        
 
     def atualizar_tempo_restante(self):
         try:
@@ -93,7 +99,7 @@ class ControladorViagem(threading.Thread):
             registrar_viagem(self.viagem)
         
         if(str(self.viagem._minutos_restantes) in self.rotina_de_notificacoes and not self.rotina_de_notificacoes[str(self.viagem._minutos_restantes)]):
-            #lembrete_usuario(self.viagem)
+            lembrete_usuario(self.viagem)
             print("Notificação")
             self.rotina_de_notificacoes[str(self.viagem._minutos_restantes)] = True
 

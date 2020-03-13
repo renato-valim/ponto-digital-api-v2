@@ -41,6 +41,7 @@ def confirmar_viagem():
 
         return jsonify({'viagem':viagem.toDict(), 'status':200})
     except Exception as e:
+        e.with_traceback()
         return jsonify({'err': str(e), 'status': 500})
 
 @viagem.route('/viagem/status', methods=['GET'])
